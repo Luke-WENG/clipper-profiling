@@ -9,7 +9,7 @@ clipper_conn.register_application(
 	name="breast-cancer", 
 	input_type="doubles", 
 	default_output="-1.0", 
-	slo_micros=100000)
+	slo_micros=100000000) # 1000,000 micros == 1 sec
 
 clipper_conn.get_all_apps()
 
@@ -26,15 +26,8 @@ model_path = "../../models/sklearn/"
 model_name = "nn_model.sav"
 clf = joblib.load(model_path + model_name)
 
-def feature_sum(xs):
-	if type(xs) is np.array:
-		if xs.shape[1] == 10: # legal input
-			preds = clf.predict(xs)
-			return [str(p) for p in preds]
-		else:
-			return -1 # illegal input
-	else:
-		return -1 # illegal input
+def clf_predicts(xs):
+	return clf.predicts(xs)
 
 #################################################
 #################################################
@@ -42,11 +35,12 @@ def feature_sum(xs):
 
 from clipper_admin.deployers import python as python_deployer
 
-python_deployer.deploy_python_closure(clipper_conn, 
+python_deployer.deploy_python_closure(
+	clipper_conn, 
 	name="nn-model", 
 	version=1, 
 	input_type="doubles", 
-	func=feature_sum)
+	func=clf_predicts)
 
 clipper_conn.link_model_to_app(app_name="breast-cancer", model_name="nn-model")
 

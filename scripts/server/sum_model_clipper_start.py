@@ -5,7 +5,8 @@ clipper_conn = ClipperConnection(DockerContainerManager())
 clipper_conn.start_clipper()
 clipper_conn.connect()
 
-clipper_conn.register_application(name="hello-world", 
+clipper_conn.register_application(
+	name="hello-world", 
 	input_type="doubles", 
 	default_output="-1.0", 
 	slo_micros=100000)

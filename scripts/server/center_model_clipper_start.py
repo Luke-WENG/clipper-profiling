@@ -15,15 +15,16 @@ clipper_conn.register_application(
     default_output="-1.0", 
     slo_micros=10000000)
 
+centered_xs = center(xs)
+model = sklearn.linear_model.LogisticRegression()
+model.fit(centered_xs, ys)
+
 # Note that this function accesses the trained model via closure capture,
 # rather than having the model passed in as an explicit argument.
 def centered_predict(inputs):
-    means = np.mean(xs, axis=0)
-    centered_xs = xs - means
-    model = sklearn.linear_model.LogisticRegression()
-    model.fit(centered_xs, ys)
+    centered_inputs = center(inputs)
     # model.predict returns a list of predictions
-    preds = model.predict(centered_xs)
+    preds = model.predict(centered_inputs)
     return [str(p) for p in preds]
 
 deploy_python_closure(
