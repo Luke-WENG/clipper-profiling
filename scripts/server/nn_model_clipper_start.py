@@ -26,8 +26,8 @@ model_path = "../../models/sklearn/"
 model_name = "nn_model.sav"
 clf = joblib.load(model_path + model_name)
 
-def clf_predicts(xs):
-	return clf.predicts(xs)
+def clf_predict(xs):
+	return clf.predict(xs)
 
 #################################################
 #################################################
@@ -40,7 +40,7 @@ python_deployer.deploy_python_closure(
 	name="nn-model", 
 	version=1, 
 	input_type="doubles", 
-	func=clf_predicts)
+	func=clf_predict)
 
 clipper_conn.link_model_to_app(app_name="breast-cancer", model_name="nn-model")
 

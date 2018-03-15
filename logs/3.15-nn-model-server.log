@@ -1,0 +1,1318 @@
+second  0.0 cpu_percent: 0.0
+memory_usage: available(MB): 3663.4255 free(MB): 361.5785 used_percent: 11.6
+second  0.5 cpu_percent: 0.0
+memory_usage: available(MB): 3663.4255 free(MB): 361.5785 used_percent: 11.6
+second  1.0 cpu_percent: 0.0
+memory_usage: available(MB): 3663.5443 free(MB): 361.5867 used_percent: 11.6
+second  1.5 cpu_percent: 0.0
+memory_usage: available(MB): 3663.5443 free(MB): 361.5867 used_percent: 11.6
+second  2.0 cpu_percent: 0.5
+memory_usage: available(MB): 3663.8147 free(MB): 361.8570 used_percent: 11.6
+second  2.5 cpu_percent: 0.0
+memory_usage: available(MB): 3663.8147 free(MB): 361.8570 used_percent: 11.6
+second  3.0 cpu_percent: 0.0
+memory_usage: available(MB): 3663.8228 free(MB): 361.8652 used_percent: 11.6
+second  3.5 cpu_percent: 0.0
+memory_usage: available(MB): 3663.8228 free(MB): 361.8652 used_percent: 11.6
+second  4.0 cpu_percent: 0.0
+memory_usage: available(MB): 3663.8228 free(MB): 361.8652 used_percent: 11.6
+second  4.5 cpu_percent: 0.0
+memory_usage: available(MB): 3663.8228 free(MB): 361.8652 used_percent: 11.6
+second  5.0 cpu_percent: 1.0
+memory_usage: available(MB): 3663.8228 free(MB): 361.8652 used_percent: 11.6
+second  5.5 cpu_percent: 0.5
+memory_usage: available(MB): 3663.8228 free(MB): 361.8652 used_percent: 11.6
+second  6.0 cpu_percent: 0.0
+memory_usage: available(MB): 3663.8228 free(MB): 361.8652 used_percent: 11.6
+second  6.5 cpu_percent: 0.0
+memory_usage: available(MB): 3663.8228 free(MB): 361.8652 used_percent: 11.6
+second  7.0 cpu_percent: 0.0
+memory_usage: available(MB): 3663.8228 free(MB): 361.8652 used_percent: 11.6
+second  7.5 cpu_percent: 0.0
+memory_usage: available(MB): 3663.8228 free(MB): 361.8652 used_percent: 11.6
+second  8.0 cpu_percent: 0.0
+memory_usage: available(MB): 3663.8228 free(MB): 361.8652 used_percent: 11.6
+second  8.5 cpu_percent: 0.0
+memory_usage: available(MB): 3663.8228 free(MB): 361.8652 used_percent: 11.6
+second  9.0 cpu_percent: 0.0
+memory_usage: available(MB): 3663.8228 free(MB): 361.8652 used_percent: 11.6
+second  9.5 cpu_percent: 0.0
+
+
+
+
+# Start to build Model
+memory_usage: available(MB): 3663.8228 free(MB): 361.8652 used_percent: 11.6
+second 10.0 cpu_percent: 2.0
+memory_usage: available(MB): 3652.9603 free(MB): 351.0026 used_percent: 11.8
+second 10.5 cpu_percent: 19.3
+memory_usage: available(MB): 3620.5404 free(MB): 318.5828 used_percent: 12.6
+second 11.0 cpu_percent: 15.0
+memory_usage: available(MB): 3610.5667 free(MB): 308.3182 used_percent: 12.9
+second 11.5 cpu_percent: 14.6
+memory_usage: available(MB): 3556.5076 free(MB): 254.1076 used_percent: 14.2
+second 12.0 cpu_percent: 25.6
+memory_usage: available(MB): 3541.3975 free(MB): 238.7026 used_percent: 14.5
+second 12.5 cpu_percent: 35.4
+memory_usage: available(MB): 3516.5594 free(MB): 213.8644 used_percent: 15.1
+second 13.0 cpu_percent: 25.0
+memory_usage: available(MB): 3509.6084 free(MB): 160.5673 used_percent: 15.3
+second 13.5 cpu_percent: 30.4
+memory_usage: available(MB): 3502.2971 free(MB): 120.6968 used_percent: 15.5
+second 14.0 cpu_percent: 16.6
+memory_usage: available(MB): 3506.2047 free(MB): 207.1429 used_percent: 15.4
+second 14.5 cpu_percent: 1.0
+memory_usage: available(MB): 3506.2047 free(MB): 207.1429 used_percent: 15.4
+second 15.0 cpu_percent: 1.0
+memory_usage: available(MB): 3505.9835 free(MB): 207.2740 used_percent: 15.4
+second 15.5 cpu_percent: 0.5
+memory_usage: available(MB): 3505.9835 free(MB): 207.2740 used_percent: 15.4
+second 16.0 cpu_percent: 0.5
+memory_usage: available(MB): 3506.0490 free(MB): 207.3395 used_percent: 15.4
+second 16.5 cpu_percent: 1.0
+memory_usage: available(MB): 3506.0490 free(MB): 207.3395 used_percent: 15.4
+second 17.0 cpu_percent: 3.5
+memory_usage: available(MB): 3505.4510 free(MB): 206.7415 used_percent: 15.4
+second 17.5 cpu_percent: 15.5
+memory_usage: available(MB): 3503.3620 free(MB): 204.3494 used_percent: 15.4
+second 18.0 cpu_percent: 20.7
+memory_usage: available(MB): 3520.6554 free(MB): 243.9332 used_percent: 15.0
+second 18.5 cpu_percent: 2.0
+memory_usage: available(MB): 3519.9959 free(MB): 243.2737 used_percent: 15.0
+second 19.0 cpu_percent: 0.0
+memory_usage: available(MB): 3519.9345 free(MB): 243.1631 used_percent: 15.0
+second 19.5 cpu_percent: 0.0
+memory_usage: available(MB): 3519.9345 free(MB): 243.1631 used_percent: 15.0
+second 20.0 cpu_percent: 0.0
+memory_usage: available(MB): 3519.9017 free(MB): 243.1304 used_percent: 15.0
+second 20.5 cpu_percent: 0.5
+memory_usage: available(MB): 3519.9017 free(MB): 243.1304 used_percent: 15.0
+second 21.0 cpu_percent: 1.0
+memory_usage: available(MB): 3519.9017 free(MB): 243.1304 used_percent: 15.0
+second 21.5 cpu_percent: 0.0
+memory_usage: available(MB): 3519.9017 free(MB): 243.1304 used_percent: 15.0
+second 22.0 cpu_percent: 0.0
+memory_usage: available(MB): 3519.9017 free(MB): 243.1304 used_percent: 15.0
+
+
+
+# Start to Serve Model
+second 22.5 cpu_percent: 5.9
+memory_usage: available(MB): 3519.3405 free(MB): 242.1146 used_percent: 15.1
+second 23.0 cpu_percent: 31.7
+memory_usage: available(MB): 3516.8051 free(MB): 239.3047 used_percent: 15.1
+second 23.5 cpu_percent: 32.8
+memory_usage: available(MB): 3516.5512 free(MB): 239.0508 used_percent: 15.1
+second 24.0 cpu_percent: 33.3
+memory_usage: available(MB): 3516.4570 free(MB): 238.8992 used_percent: 15.1
+second 24.5 cpu_percent: 33.0
+memory_usage: available(MB): 3516.3054 free(MB): 238.7476 used_percent: 15.1
+second 25.0 cpu_percent: 32.0
+memory_usage: available(MB): 3516.3587 free(MB): 238.7804 used_percent: 15.1
+second 25.5 cpu_percent: 33.2
+memory_usage: available(MB): 3516.3587 free(MB): 238.7804 used_percent: 15.1
+second 26.0 cpu_percent: 32.7
+memory_usage: available(MB): 3516.0719 free(MB): 238.4527 used_percent: 15.1
+second 26.5 cpu_percent: 31.8
+memory_usage: available(MB): 3516.0719 free(MB): 238.4527 used_percent: 15.1
+second 27.0 cpu_percent: 29.9
+memory_usage: available(MB): 3515.8098 free(MB): 238.1578 used_percent: 15.1
+second 27.5 cpu_percent: 30.2
+memory_usage: available(MB): 3515.4985 free(MB): 237.8465 used_percent: 15.2
+second 28.0 cpu_percent: 28.7
+memory_usage: available(MB): 3515.4903 free(MB): 237.7359 used_percent: 15.2
+second 28.5 cpu_percent: 29.3
+memory_usage: available(MB): 3515.2323 free(MB): 237.3263 used_percent: 15.2
+second 29.0 cpu_percent: 29.9
+memory_usage: available(MB): 3515.2036 free(MB): 237.2280 used_percent: 15.2
+second 29.5 cpu_percent: 28.6
+memory_usage: available(MB): 3515.2036 free(MB): 237.2280 used_percent: 15.2
+second 30.0 cpu_percent: 29.6
+memory_usage: available(MB): 3515.1176 free(MB): 237.0601 used_percent: 15.2
+second 30.5 cpu_percent: 30.3
+memory_usage: available(MB): 3514.9455 free(MB): 236.8881 used_percent: 15.2
+second 31.0 cpu_percent: 28.8
+memory_usage: available(MB): 3514.9865 free(MB): 236.8922 used_percent: 15.2
+second 31.5 cpu_percent: 28.6
+memory_usage: available(MB): 3514.9865 free(MB): 236.8922 used_percent: 15.2
+second 32.0 cpu_percent: 25.5
+memory_usage: available(MB): 3514.7940 free(MB): 236.6833 used_percent: 15.2
+second 32.5 cpu_percent: 27.0
+memory_usage: available(MB): 3514.6301 free(MB): 236.5194 used_percent: 15.2
+second 33.0 cpu_percent: 26.6
+memory_usage: available(MB): 3514.5196 free(MB): 236.3474 used_percent: 15.2
+second 33.5 cpu_percent: 26.3
+memory_usage: available(MB): 3514.3557 free(MB): 236.1836 used_percent: 15.2
+second 34.0 cpu_percent: 26.1
+memory_usage: available(MB): 3514.3885 free(MB): 236.1795 used_percent: 15.2
+second 34.5 cpu_percent: 26.1
+memory_usage: available(MB): 3514.2164 free(MB): 236.0074 used_percent: 15.2
+second 35.0 cpu_percent: 26.7
+memory_usage: available(MB): 3514.2451 free(MB): 236.0361 used_percent: 15.2
+second 35.5 cpu_percent: 26.3
+memory_usage: available(MB): 3514.2451 free(MB): 236.0361 used_percent: 15.2
+second 36.0 cpu_percent: 27.0
+memory_usage: available(MB): 3514.2164 free(MB): 235.9951 used_percent: 15.2
+second 36.5 cpu_percent: 28.2
+memory_usage: available(MB): 3514.0362 free(MB): 235.8149 used_percent: 15.2
+second 37.0 cpu_percent: 28.8
+memory_usage: available(MB): 3514.1673 free(MB): 235.9460 used_percent: 15.2
+second 37.5 cpu_percent: 27.6
+memory_usage: available(MB): 3514.0035 free(MB): 235.7821 used_percent: 15.2
+second 38.0 cpu_percent: 30.1
+memory_usage: available(MB): 3514.0321 free(MB): 235.7371 used_per
+
+
+#Second Model Serving
+second  0.0 cpu_percent: 0.0
+memory_usage: available(MB): 3511.5418 free(MB): 232.5258 used_percent: 15.2
+second  0.5 cpu_percent: 25.3
+memory_usage: available(MB): 3511.5418 free(MB): 232.5258 used_percent: 15.2
+second  1.0 cpu_percent: 25.5
+memory_usage: available(MB): 3511.4353 free(MB): 232.4070 used_percent: 15.2
+second  1.5 cpu_percent: 25.1
+memory_usage: available(MB): 3511.4353 free(MB): 232.4070 used_percent: 15.2
+second  2.0 cpu_percent: 25.6
+memory_usage: available(MB): 3511.3329 free(MB): 232.3046 used_percent: 15.3
+second  2.5 cpu_percent: 25.3
+memory_usage: available(MB): 3511.3329 free(MB): 232.3046 used_percent: 15.3
+second  3.0 cpu_percent: 25.5
+memory_usage: available(MB): 3511.3452 free(MB): 232.3046 used_percent: 15.3
+second  3.5 cpu_percent: 25.1
+memory_usage: available(MB): 3511.3452 free(MB): 232.3046 used_percent: 15.3
+second  4.0 cpu_percent: 25.5
+memory_usage: available(MB): 3511.3452 free(MB): 232.3046 used_percent: 15.3
+second  4.5 cpu_percent: 25.1
+memory_usage: available(MB): 3511.3452 free(MB): 232.3046 used_percent: 15.3
+second  5.0 cpu_percent: 25.0
+memory_usage: available(MB): 3511.3452 free(MB): 232.3046 used_percent: 15.3
+second  5.5 cpu_percent: 25.6
+memory_usage: available(MB): 3511.3452 free(MB): 232.3046 used_percent: 15.3
+second  6.0 cpu_percent: 25.1
+memory_usage: available(MB): 3511.3452 free(MB): 232.3046 used_percent: 15.3
+second  6.5 cpu_percent: 25.5
+memory_usage: available(MB): 3511.3452 free(MB): 232.3046 used_percent: 15.3
+second  7.0 cpu_percent: 25.3
+memory_usage: available(MB): 3511.3533 free(MB): 232.3046 used_percent: 15.3
+second  7.5 cpu_percent: 25.5
+memory_usage: available(MB): 3511.3533 free(MB): 232.3046 used_percent: 15.3
+second  8.0 cpu_percent: 25.5
+memory_usage: available(MB): 3511.3656 free(MB): 232.3046 used_percent: 15.3
+second  8.5 cpu_percent: 25.3
+memory_usage: available(MB): 3511.3656 free(MB): 232.3046 used_percent: 15.3
+second  9.0 cpu_percent: 25.0
+memory_usage: available(MB): 3511.3656 free(MB): 232.3046 used_percent: 15.3
+second  9.5 cpu_percent: 25.5
+memory_usage: available(MB): 3511.3656 free(MB): 232.3046 used_percent: 15.3
+second 10.0 cpu_percent: 25.5
+memory_usage: available(MB): 3511.3738 free(MB): 232.3046 used_percent: 15.3
+second 10.5 cpu_percent: 25.3
+memory_usage: available(MB): 3511.3738 free(MB): 232.3046 used_percent: 15.3
+second 11.0 cpu_percent: 25.5
+memory_usage: available(MB): 3511.3738 free(MB): 232.3046 used_percent: 15.3
+second 11.5 cpu_percent: 25.1
+memory_usage: available(MB): 3511.3738 free(MB): 232.3046 used_percent: 15.3
+second 12.0 cpu_percent: 26.3
+memory_usage: available(MB): 3511.2468 free(MB): 232.1777 used_percent: 15.3
+second 12.5 cpu_percent: 25.0
+memory_usage: available(MB): 3511.2468 free(MB): 232.1777 used_percent: 15.3
+second 13.0 cpu_percent: 25.3
+memory_usage: available(MB): 3511.2468 free(MB): 232.1777 used_percent: 15.3
+second 13.5 cpu_percent: 25.5
+memory_usage: available(MB): 3511.2468 free(MB): 232.1777 used_percent: 15.3
+second 14.0 cpu_percent: 25.9
+memory_usage: available(MB): 3511.2468 free(MB): 232.1777 used_percent: 15.3
+second 14.5 cpu_percent: 25.0
+memory_usage: available(MB): 3511.2468 free(MB): 232.1777 used_percent: 15.3
+second 15.0 cpu_percent: 25.5
+memory_usage: available(MB): 3511.2468 free(MB): 232.1777 used_percent: 15.3
+second 15.5 cpu_percent: 25.1
+memory_usage: available(MB): 3511.2468 free(MB): 232.1777 used_percent: 15.3
+second 16.0 cpu_percent: 25.3
+memory_usage: available(MB): 3511.2468 free(MB): 232.1777 used_percent: 15.3
+second 16.5 cpu_percent: 25.1
+memory_usage: available(MB): 3511.2468 free(MB): 232.1777 used_percent: 15.3
+second 17.0 cpu_percent: 26.0
+memory_usage: available(MB): 3511.2673 free(MB): 232.1777 used_percent: 15.3
+second 17.5 cpu_percent: 25.5
+memory_usage: available(MB): 3511.2673 free(MB): 232.1777 used_percent: 15.3
+second 18.0 cpu_percent: 26.0
+memory_usage: available(MB): 3511.3533 free(MB): 232.2514 used_percent: 15.3
+second 18.5 cpu_percent: 25.3
+memory_usage: available(MB): 3511.3533 free(MB): 232.2514 used_percent: 15.3
+second 19.0 cpu_percent: 17.1
+
+
+
+
+memory_usage: available(MB): 3511.3533 free(MB): 232.2514 used_percent: 15.3
+second 19.5 cpu_percent: 0.5
+memory_usage: available(MB): 3511.3533 free(MB): 232.2514 used_percent: 15.3
+second 20.0 cpu_percent: 0.5
+memory_usage: available(MB): 3511.4680 free(MB): 232.3661 used_percent: 15.2
+second 20.5 cpu_percent: 0.0
+memory_usage: available(MB): 3511.4680 free(MB): 232.3661 used_percent: 15.2
+second 21.0 cpu_percent: 1.0
+memory_usage: available(MB): 3511.4680 free(MB): 232.3661 used_percent: 15.2
+second 21.5 cpu_percent: 0.0
+memory_usage: available(MB): 3511.4680 free(MB): 232.3661 used_percent: 15.2
+second 22.0 cpu_percent: 1.0
+memory_usage: available(MB): 3511.4721 free(MB): 232.3661 used_percent: 15.2
+second 22.5 cpu_percent: 0.0
+memory_usage: available(MB): 3511.4721 free(MB): 232.3661 used_percent: 15.2
+second 23.0 cpu_percent: 1.5
+memory_usage: available(MB): 3511.4721 free(MB): 232.3661 used_percent: 15.2
+second 23.5 cpu_percent: 0.5
+memory_usage: available(MB): 3511.4721 free(MB): 232.3661 used_percent: 15.2
+second 24.0 cpu_percent: 0.0
+memory_usage: available(MB): 3511.4721 free(MB): 232.3661 used_percent: 15.2
+second 24.5 cpu_percent: 0.5
+memory_usage: available(MB): 3511.4721 free(MB): 232.3661 used_percent: 15.2
+second 25.0 cpu_percent: 0.0
+memory_usage: available(MB): 3511.4967 free(MB): 232.3661 used_percent: 15.2
+second 25.5 cpu_percent: 0.5
+memory_usage: available(MB): 3511.4967 free(MB): 232.3661 used_percent: 15.2
+second 26.0 cpu_percent: 0.5
+memory_usage: available(MB): 3511.6524 free(MB): 232.5217 used_percent: 15.2
+second 26.5 cpu_percent: 3.5
+memory_usage: available(MB): 3511.6524 free(MB): 232.5217 used_percent: 15.2
+second 27.0 cpu_percent: 1.5
+memory_usage: available(MB): 3511.5663 free(MB): 232.4275 used_percent: 15.2
+second 27.5 cpu_percent: 1.0
+memory_usage: available(MB): 3511.5663 free(MB): 232.4275 used_percent: 15.2
+second 28.0 cpu_percent: 0.0
+memory_usage: available(MB): 3511.4394 free(MB): 232.3005 used_percent: 15.2
+second 28.5 cpu_percent: 0.5
+memory_usage: available(MB): 3511.4394 free(MB): 232.3005 used_percent: 15.2
+second 29.0 cpu_percent: 0.5
+memory_usage: available(MB): 3511.4394 free(MB): 232.3005 used_percent: 15.2
+second 29.5 cpu_percent: 0.0
+memory_usage: available(MB): 3511.4394 free(MB): 232.3005 used_percent: 15.2
+second 30.0 cpu_percent: 0.0
+memory_usage: available(MB): 3511.4394 free(MB): 232.3005 used_percent: 15.2
+second 30.5 cpu_percent: 0.0
+memory_usage: available(MB): 3511.4394 free(MB): 232.3005 used_percent: 15.2
+second 31.0 cpu_percent: 0.5
+memory_usage: available(MB): 3511.4394 free(MB): 232.3005 used_percent: 15.2
+second 31.5 cpu_percent: 2.0
+memory_usage: available(MB): 3511.4394 free(MB): 232.3005 used_percent: 15.2
+second 32.0 cpu_percent: 0.5
+memory_usage: available(MB): 3511.4394 free(MB): 232.3005 used_percent: 15.2
+second 32.5 cpu_percent: 1.0
+memory_usage: available(MB): 3511.4394 free(MB): 232.3005 used_percent: 15.2
+second 33.0 cpu_percent: 0.5
+memory_usage: available(MB): 3511.4312 free(MB): 232.2924 used_percent: 15.2
+second 33.5 cpu_percent: 0.5
+memory_usage: available(MB): 3511.4312 free(MB): 232.2924 used_percent: 15.2
+second 34.0 cpu_percent: 0.0
+memory_usage: available(MB): 3511.5459 free(MB): 232.4070 used_percent: 15.2
+second 34.5 cpu_percent: 1.0
+memory_usage: available(MB): 3511.5459 free(MB): 232.4070 used_percent: 15.2
+second 35.0 cpu_percent: 1.0
+memory_usage: available(MB): 3511.5459 free(MB): 232.4070 used_percent: 15.2
+second 35.5 cpu_percent: 0.0
+memory_usage: available(MB): 3511.5459 free(MB): 232.4070 used_percent: 15.2
+
+
+
+
+# Two Users' Requesting
+second 36.0 cpu_percent: 0.0
+memory_usage: available(MB): 3511.6605 free(MB): 232.5217 used_percent: 15.2
+second 36.5 cpu_percent: 5.5
+memory_usage: available(MB): 3511.6605 free(MB): 232.5217 used_percent: 15.2
+second 37.0 cpu_percent: 36.6
+memory_usage: available(MB): 3511.6851 free(MB): 232.5217 used_percent: 15.2
+second 37.5 cpu_percent: 36.2
+memory_usage: available(MB): 3511.6851 free(MB): 232.5217 used_percent: 15.2
+second 38.0 cpu_percent: 37.2
+memory_usage: available(MB): 3511.7015 free(MB): 232.5217 used_percent: 15.2
+second 38.5 cpu_percent: 36.4
+memory_usage: available(MB): 3511.7097 free(MB): 232.5299 used_percent: 15.2
+second 39.0 cpu_percent: 38.2
+memory_usage: available(MB): 3511.7793 free(MB): 232.5463 used_percent: 15.2
+second 39.5 cpu_percent: 36.7
+memory_usage: available(MB): 3511.5991 free(MB): 232.3661 used_percent: 15.2
+second 40.0 cpu_percent: 37.0
+memory_usage: available(MB): 3511.5827 free(MB): 232.3497 used_percent: 15.2
+second 40.5 cpu_percent: 36.9
+memory_usage: available(MB): 3511.3902 free(MB): 232.1572 used_percent: 15.2
+second 41.0 cpu_percent: 37.9
+memory_usage: available(MB): 3511.3288 free(MB): 232.0589 used_percent: 15.3
+second 41.5 cpu_percent: 37.4
+memory_usage: available(MB): 3511.1322 free(MB): 231.8623 used_percent: 15.3
+second 42.0 cpu_percent: 36.3
+memory_usage: available(MB): 3509.0637 free(MB): 229.7119 used_percent: 15.3
+second 42.5 cpu_percent: 37.3
+memory_usage: available(MB): 3508.7196 free(MB): 229.3678 used_percent: 15.3
+second 43.0 cpu_percent: 36.2
+memory_usage: available(MB): 3508.6172 free(MB): 229.2244 used_percent: 15.3
+second 43.5 cpu_percent: 35.8
+memory_usage: available(MB): 3507.9496 free(MB): 228.5568 used_percent: 15.3
+second 44.0 cpu_percent: 36.6
+memory_usage: available(MB): 3507.6055 free(MB): 228.1472 used_percent: 15.3
+second 44.5 cpu_percent: 36.4
+memory_usage: available(MB): 3507.9660 free(MB): 228.5076 used_percent: 15.3
+second 45.0 cpu_percent: 37.6
+memory_usage: available(MB): 3508.0110 free(MB): 228.4462 used_percent: 15.3
+second 45.5 cpu_percent: 34.6
+memory_usage: available(MB): 3507.9987 free(MB): 228.4339 used_percent: 15.3
+second 46.0 cpu_percent: 37.0
+memory_usage: available(MB): 3507.8472 free(MB): 228.2537 used_percent: 15.3
+second 46.5 cpu_percent: 36.0
+memory_usage: available(MB): 3507.6588 free(MB): 228.0653 used_percent: 15.3
+second 47.0 cpu_percent: 36.6
+memory_usage: available(MB): 3507.6506 free(MB): 227.9997 used_percent: 15.3
+second 47.5 cpu_percent: 35.8
+memory_usage: available(MB): 3506.8436 free(MB): 227.1928 used_percent: 15.4
+second 48.0 cpu_percent: 36.9
+memory_usage: available(MB): 3506.7576 free(MB): 227.0781 used_percent: 15.4
+second 48.5 cpu_percent: 35.2
+memory_usage: available(MB): 3506.1105 free(MB): 226.4310 used_percent: 15.4
+second 49.0 cpu_percent: 37.0
+memory_usage: available(MB): 3505.9016 free(MB): 226.1606 used_percent: 15.4
+second 49.5 cpu_percent: 36.0
+memory_usage: available(MB): 3506.2129 free(MB): 226.4719 used_percent: 15.4
+second 50.0 cpu_percent: 35.8
+memory_usage: available(MB): 3505.9589 free(MB): 226.1852 used_percent: 15.4
+second 50.5 cpu_percent: 37.6
+memory_usage: available(MB): 3505.9425 free(MB): 226.1688 used_percent: 15.4
+second 51.0 cpu_percent: 36.6
+memory_usage: available(MB): 3505.5739 free(MB): 225.7633 used_percent: 15.4
+second 51.5 cpu_percent: 36.5
+memory_usage: available(MB): 3505.3978 free(MB): 225.5872 used_percent: 15.4
+second 52.0 cpu_percent: 36.3
+memory_usage: available(MB): 3503.3498 free(MB): 223.4819 used_percent: 15.4
+second 52.5 cpu_percent: 37.8
+memory_usage: available(MB): 3503.3088 free(MB): 223.4409 used_percent: 15.4
+second 53.0 cpu_percent: 37.3
+memory_usage: available(MB): 3503.0876 free(MB): 223.1788 used_percent: 15.5
+second 53.5 cpu_percent: 35.6
+memory_usage: available(MB): 3502.6207 free(MB): 222.7118 used_percent: 15.5
+second 54.0 cpu_percent: 36.2
+memory_usage: available(MB): 3502.3421 free(MB): 222.4087 used_percent: 15.5
+second 54.5 cpu_percent: 36.4
+memory_usage: available(MB): 3502.3503 free(MB): 222.4169 used_percent: 15.5
+second 55.0 cpu_percent: 37.6
+memory_usage: available(MB): 3502.1947 free(MB): 222.2121 used_percent: 15.5
+second 55.5 cpu_percent: 36.5
+memory_usage: available(MB): 3501.7687 free(MB): 221.7861 used_percent: 15.5
+second 56.0 cpu_percent: 36.3
+memory_usage: available(MB): 3501.9653 free(MB): 221.9418 used_percent: 15.5
+second 56.5 cpu_percent: 38.1
+memory_usage: available(MB): 3501.8506 free(MB): 221.7697 used_percent: 15.5
+second 57.0 cpu_percent: 37.3
+memory_usage: available(MB): 3501.7605 free(MB): 221.6714 used_percent: 15.5
+second 57.5 cpu_percent: 37.0
+memory_usage: available(MB): 3501.4410 free(MB): 221.3396 used_percent: 15.5
+second 58.0 cpu_percent: 36.6
+memory_usage: available(MB): 3501.2895 free(MB): 221.1717 used_percent: 15.5
+second 58.5 cpu_percent: 37.8
+memory_usage: available(MB): 3501.0724 free(MB): 220.9341 used_percent: 15.5
+second 59.0 cpu_percent: 36.7
+memory_usage: available(MB): 3500.7447 free(MB): 220.6065 used_percent: 15.5
+second 59.5 cpu_percent: 35.8
+memory_usage: available(MB): 3500.8102 free(MB): 220.6556 used_percent: 15.5
+second 60.0 cpu_percent: 34.1
+memory_usage: available(MB): 3500.4744 free(MB): 220.3197 used_percent: 15.5
+second 60.5 cpu_percent: 34.8
+memory_usage: available(MB): 3500.4006 free(MB): 220.1928 used_percent: 15.5
+second 61.0 cpu_percent: 33.5
+memory_usage: available(MB): 3500.1262 free(MB): 219.9183 used_percent: 15.5
+second 61.5 cpu_percent: 35.2
+memory_usage: available(MB): 3499.9173 free(MB): 219.7094 used_percent: 15.5
+second 62.0 cpu_percent: 33.2
+memory_usage: available(MB): 3499.3930 free(MB): 219.1524 used_percent: 15.5
+second 62.5 cpu_percent: 36.4
+memory_usage: available(MB): 3499.3603 free(MB): 219.0418 used_percent: 15.5
+second 63.0 cpu_percent: 33.8
+memory_usage: available(MB): 3498.7581 free(MB): 218.4397 used_percent: 15.6
+second 63.5 cpu_percent: 35.1
+memory_usage: available(MB): 3498.7581 free(MB): 218.4397 used_percent: 15.6
+second 64.0 cpu_percent: 34.9
+memory_usage: available(MB): 3498.7213 free(MB): 218.4028 used_percent: 15.6
+second 64.5 cpu_percent: 35.1
+memory_usage: available(MB): 3498.9302 free(MB): 218.5544 used_percent: 15.6
+second 65.0 cpu_percent: 35.1
+memory_usage: available(MB): 3498.6639 free(MB): 218.2881 used_percent: 15.6
+second 65.5 cpu_percent: 35.5
+memory_usage: available(MB): 3498.4387 free(MB): 218.0628 used_percent: 15.6
+second 66.0 cpu_percent: 35.7
+memory_usage: available(MB): 3498.3977 free(MB): 218.0219 used_percent: 15.6
+second 66.5 cpu_percent: 36.7
+memory_usage: available(MB): 3498.1151 free(MB): 217.6819 used_percent: 15.6
+second 67.0 cpu_percent: 34.6
+memory_usage: available(MB): 3497.9471 free(MB): 217.5058 used_percent: 15.6
+second 67.5 cpu_percent: 33.2
+memory_usage: available(MB): 3497.6276 free(MB): 217.1331 used_percent: 15.6
+second 68.0 cpu_percent: 37.4
+memory_usage: available(MB): 3497.5621 free(MB): 217.0675 used_percent: 15.6
+second 68.5 cpu_percent: 33.5
+memory_usage: available(MB): 3497.4638 free(MB): 216.9692 used_percent: 15.6
+second 69.0 cpu_percent: 34.0
+memory_usage: available(MB): 3497.2221 free(MB): 216.7276 used_percent: 15.6
+second 69.5 cpu_percent: 34.4
+memory_usage: available(MB): 3497.2467 free(MB): 216.6784 used_percent: 15.6
+second 70.0 cpu_percent: 32.5
+memory_usage: available(MB): 3497.0706 free(MB): 216.5023 used_percent: 15.6
+second 70.5 cpu_percent: 33.7
+memory_usage: available(MB): 3496.9559 free(MB): 216.3876 used_percent: 15.6
+second 71.0 cpu_percent: 34.4
+memory_usage: available(MB): 3496.7798 free(MB): 216.2115 used_percent: 15.6
+second 71.5 cpu_percent: 34.8
+memory_usage: available(MB): 3496.6200 free(MB): 215.9862 used_percent: 15.6
+second 72.0 cpu_percent: 34.8
+memory_usage: available(MB): 3494.9366 free(MB): 214.3027 used_percent: 15.6
+second 72.5 cpu_percent: 34.4
+memory_usage: available(MB): 3494.6621 free(MB): 213.9668 used_percent: 15.7
+second 73.0 cpu_percent: 34.4
+memory_usage: available(MB): 3494.5147 free(MB): 213.8194 used_percent: 15.7
+second 73.5 cpu_percent: 34.0
+memory_usage: available(MB): 3494.2730 free(MB): 213.5777 used_percent: 15.7
+second 74.0 cpu_percent: 34.6
+memory_usage: available(MB): 3494.2730 free(MB): 213.5777 used_percent: 15.7
+second 74.5 cpu_percent: 34.6
+memory_usage: available(MB): 3494.0928 free(MB): 213.3975 used_percent: 15.7
+second 75.0 cpu_percent: 33.7
+memory_usage: available(MB): 3493.7569 free(MB): 213.0616 used_percent: 15.7
+second 75.5 cpu_percent: 34.4
+memory_usage: available(MB): 3493.6218 free(MB): 212.8691 used_percent: 15.7
+second 76.0 cpu_percent: 33.7
+memory_usage: available(MB): 3493.6218 free(MB): 212.8691 used_percent: 15.7
+second 76.5 cpu_percent: 34.4
+memory_usage: available(MB): 3493.2572 free(MB): 212.4186 used_percent: 15.7
+second 77.0 cpu_percent: 33.8
+memory_usage: available(MB): 3493.0647 free(MB): 212.2260 used_percent: 15.7
+second 77.5 cpu_percent: 34.6
+memory_usage: available(MB): 3492.9172 free(MB): 212.0335 used_percent: 15.7
+second 78.0 cpu_percent: 34.1
+memory_usage: available(MB): 3492.7411 free(MB): 211.8574 used_percent: 15.7
+second 78.5 cpu_percent: 33.3
+memory_usage: available(MB): 3492.6428 free(MB): 211.7591 used_percent: 15.7
+second 79.0 cpu_percent: 35.7
+memory_usage: available(MB): 3492.4012 free(MB): 211.5174 used_percent: 15.7
+second 79.5 cpu_percent: 35.4
+memory_usage: available(MB): 3492.1267 free(MB): 211.1652 used_percent: 15.7
+second 80.0 cpu_percent: 34.8
+memory_usage: available(MB): 3491.9670 free(MB): 211.0054 used_percent: 15.7
+second 80.5 cpu_percent: 34.1
+memory_usage: available(MB): 3491.8687 free(MB): 210.9071 used_percent: 15.7
+second 81.0 cpu_percent: 34.1
+memory_usage: available(MB): 3491.6270 free(MB): 210.6655 used_percent: 15.7
+second 81.5 cpu_percent: 36.7
+memory_usage: available(MB): 3491.3894 free(MB): 210.3624 used_percent: 15.7
+second 82.0 cpu_percent: 33.5
+memory_usage: available(MB): 3491.3894 free(MB): 210.3624 used_percent: 15.7
+second 82.5 cpu_percent: 35.1
+memory_usage: available(MB): 3491.1232 free(MB): 210.0388 used_percent: 15.7
+second 83.0 cpu_percent: 34.8
+memory_usage: available(MB): 3491.0249 free(MB): 209.9405 used_percent: 15.7
+second 83.5 cpu_percent: 31.7
+memory_usage: available(MB): 3490.7218 free(MB): 209.6374 used_percent: 15.7
+second 84.0 cpu_percent: 35.5
+memory_usage: available(MB): 3490.5457 free(MB): 209.4612 used_percent: 15.8
+second 84.5 cpu_percent: 34.1
+memory_usage: available(MB): 3490.5211 free(MB): 209.3793 used_percent: 15.8
+second 85.0 cpu_percent: 34.3
+memory_usage: available(MB): 3490.3122 free(MB): 209.1704 used_percent: 15.8
+second 85.5 cpu_percent: 33.5
+memory_usage: available(MB): 3490.1279 free(MB): 208.9288 used_percent: 15.8
+second 86.0 cpu_percent: 34.3
+memory_usage: available(MB): 3489.9190 free(MB): 208.7199 used_percent: 15.8
+second 86.5 cpu_percent: 36.2
+memory_usage: available(MB): 3489.6609 free(MB): 208.4168 used_percent: 15.8
+second 87.0 cpu_percent: 34.9
+memory_usage: available(MB): 3489.6609 free(MB): 208.4168 used_percent: 15.8
+second 87.5 cpu_percent: 35.7
+memory_usage: available(MB): 3489.3783 free(MB): 208.1260 used_percent: 15.8
+second 88.0 cpu_percent: 34.3
+memory_usage: available(MB): 3489.2186 free(MB): 207.9662 used_percent: 15.8
+second 88.5 cpu_percent: 34.9
+memory_usage: available(MB): 3489.1080 free(MB): 207.8188 used_percent: 15.8
+second 89.0 cpu_percent: 34.9
+memory_usage: available(MB): 3488.7721 free(MB): 207.4829 used_percent: 15.8
+second 89.5 cpu_percent: 35.1
+memory_usage: available(MB): 3488.6533 free(MB): 207.3068 used_percent: 15.8
+second 90.0 cpu_percent: 34.3
+memory_usage: available(MB): 3488.6533 free(MB): 207.3068 used_percent: 15.8
+second 90.5 cpu_percent: 34.0
+memory_usage: available(MB): 3488.2355 free(MB): 206.8890 used_percent: 15.8
+second 91.0 cpu_percent: 34.8
+memory_usage: available(MB): 3488.2355 free(MB): 206.8890 used_percent: 15.8
+second 91.5 cpu_percent: 34.0
+memory_usage: available(MB): 3487.7399 free(MB): 206.3114 used_percent: 15.8
+second 92.0 cpu_percent: 35.1
+memory_usage: available(MB): 3483.6193 free(MB): 202.1908 used_percent: 15.9
+second 92.5 cpu_percent: 35.7
+memory_usage: available(MB): 3483.7586 free(MB): 202.2851 used_percent: 15.9
+second 93.0 cpu_percent: 34.8
+memory_usage: available(MB): 3483.5497 free(MB): 202.0762 used_percent: 15.9
+second 93.5 cpu_percent: 32.5
+memory_usage: available(MB): 3483.3572 free(MB): 201.8836 used_percent: 15.9
+second 94.0 cpu_percent: 33.7
+memory_usage: available(MB): 3483.2097 free(MB): 201.7362 used_percent: 15.9
+second 94.5 cpu_percent: 31.8
+memory_usage: available(MB): 3483.1852 free(MB): 201.7116 used_percent: 15.9
+second 95.0 cpu_percent: 34.1
+memory_usage: available(MB): 3483.0172 free(MB): 201.5437 used_percent: 15.9
+second 95.5 cpu_percent: 25.3
+memory_usage: available(MB): 3482.9722 free(MB): 201.4454 used_percent: 15.9
+second 96.0 cpu_percent: 25.1
+memory_usage: available(MB): 3482.9722 free(MB): 201.4454 used_percent: 15.9
+second 96.5 cpu_percent: 25.6
+memory_usage: available(MB): 3482.9312 free(MB): 201.3184 used_percent: 15.9
+second 97.0 cpu_percent: 25.1
+memory_usage: available(MB): 3482.9312 free(MB): 201.3184 used_percent: 15.9
+second 97.5 cpu_percent: 25.6
+memory_usage: available(MB): 3482.9312 free(MB): 201.3184 used_percent: 15.9
+second 98.0 cpu_percent: 25.1
+memory_usage: available(MB): 3482.9312 free(MB): 201.3184 used_percent: 15.9
+second 98.5 cpu_percent: 25.3
+memory_usage: available(MB): 3482.9312 free(MB): 201.3184 used_percent: 15.9
+second 99.0 cpu_percent: 25.1
+memory_usage: available(MB): 3482.9312 free(MB): 201.3184 used_percent: 15.9
+second 99.5 cpu_percent: 25.1
+memory_usage: available(MB): 3482.9517 free(MB): 201.3184 used_percent: 15.9
+second 100.0 cpu_percent: 25.5
+memory_usage: available(MB): 3482.9517 free(MB): 201.3184 used_percent: 15.9
+second 100.5 cpu_percent: 25.3
+memory_usage: available(MB): 3482.9517 free(MB): 201.3184 used_percent: 15.9
+second 101.0 cpu_percent: 25.1
+memory_usage: available(MB): 3482.9517 free(MB): 201.3184 used_percent: 15.9
+second 101.5 cpu_percent: 25.3
+memory_usage: available(MB): 3482.9517 free(MB): 201.3184 used_percent: 15.9
+second 102.0 cpu_percent: 25.5
+memory_usage: available(MB): 3482.9517 free(MB): 201.3184 used_percent: 15.9
+second 102.5 cpu_percent: 25.3
+memory_usage: available(MB): 3482.9558 free(MB): 201.3184 used_percent: 15.9
+second 103.0 cpu_percent: 25.1
+memory_usage: available(MB): 3482.9558 free(MB): 201.3184 used_percent: 15.9
+second 103.5 cpu_percent: 25.3
+memory_usage: available(MB): 3482.9558 free(MB): 201.3184 used_percent: 15.9
+second 104.0 cpu_percent: 25.1
+memory_usage: available(MB): 3482.9558 free(MB): 201.3184 used_percent: 15.9
+second 104.5 cpu_percent: 25.6
+memory_usage: available(MB): 3482.9558 free(MB): 201.3184 used_percent: 15.9
+second 105.0 cpu_percent: 25.1
+memory_usage: available(MB): 3482.9558 free(MB): 201.3184 used_percent: 15.9
+second 105.5 cpu_percent: 25.5
+memory_usage: available(MB): 3482.9558 free(MB): 201.3184 used_percent: 15.9
+second 106.0 cpu_percent: 26.0
+memory_usage: available(MB): 3482.9558 free(MB): 201.3184 used_percent: 15.9
+second 106.5 cpu_percent: 25.6
+memory_usage: available(MB): 3482.8329 free(MB): 201.1914 used_percent: 15.9
+second 107.0 cpu_percent: 25.3
+memory_usage: available(MB): 3482.8329 free(MB): 201.1914 used_percent: 15.9
+second 107.5 cpu_percent: 25.5
+memory_usage: available(MB): 3482.8575 free(MB): 201.1914 used_percent: 15.9
+second 108.0 cpu_percent: 25.1
+memory_usage: available(MB): 3482.8575 free(MB): 201.1914 used_percent: 15.9
+second 108.5 cpu_percent: 25.3
+memory_usage: available(MB): 3482.8575 free(MB): 201.1914 used_percent: 15.9
+second 109.0 cpu_percent: 25.1
+memory_usage: available(MB): 3482.8575 free(MB): 201.1914 used_percent: 15.9
+second 109.5 cpu_percent: 25.1
+memory_usage: available(MB): 3482.8575 free(MB): 201.1914 used_percent: 15.9
+second 110.0 cpu_percent: 25.5
+memory_usage: available(MB): 3482.8575 free(MB): 201.1914 used_percent: 15.9
+second 110.5 cpu_percent: 25.8
+memory_usage: available(MB): 3482.7223 free(MB): 201.0563 used_percent: 15.9
+second 111.0 cpu_percent: 25.5
+memory_usage: available(MB): 3482.7223 free(MB): 201.0563 used_percent: 15.9
+second 111.5 cpu_percent: 25.3
+memory_usage: available(MB): 3482.7428 free(MB): 201.0644 used_percent: 15.9
+second 112.0 cpu_percent: 25.5
+memory_usage: available(MB): 3482.7428 free(MB): 201.0644 used_percent: 15.9
+second 112.5 cpu_percent: 25.4
+memory_usage: available(MB): 3482.7551 free(MB): 201.0644 used_percent: 15.9
+second 113.0 cpu_percent: 25.0
+memory_usage: available(MB): 3482.7551 free(MB): 201.0644 used_percent: 15.9
+second 113.5 cpu_percent: 25.3
+memory_usage: available(MB): 3482.7551 free(MB): 201.0644 used_percent: 15.9
+second 114.0 cpu_percent: 25.3
+memory_usage: available(MB): 3482.7551 free(MB): 201.0644 used_percent: 15.9
+second 114.5 cpu_percent: 25.5
+memory_usage: available(MB): 3482.7551 free(MB): 201.0644 used_percent: 15.9
+second 115.0 cpu_percent: 25.1
+memory_usage: available(MB): 3482.7551 free(MB): 201.0644 used_percent: 15.9
+second 115.5 cpu_percent: 25.6
+memory_usage: available(MB): 3482.7551 free(MB): 201.0644 used_percent: 15.9
+second 116.0 cpu_percent: 25.1
+memory_usage: available(MB): 3482.6281 free(MB): 200.9375 used_percent: 15.9
+second 116.5 cpu_percent: 25.6
+memory_usage: available(MB): 3482.6363 free(MB): 200.9375 used_percent: 15.9
+second 117.0 cpu_percent: 25.1
+memory_usage: available(MB): 3482.6363 free(MB): 200.9375 used_percent: 15.9
+second 117.5 cpu_percent: 25.6
+memory_usage: available(MB): 3482.6363 free(MB): 200.9375 used_percent: 15.9
+second 118.0 cpu_percent: 25.1
+memory_usage: available(MB): 3482.6363 free(MB): 200.9375 used_percent: 15.9
+second 118.5 cpu_percent: 25.1
+memory_usage: available(MB): 3482.6363 free(MB): 200.9375 used_percent: 15.9
+second 119.0 cpu_percent: 34.0
+memory_usage: available(MB): 3482.8657 free(MB): 201.1668 used_percent: 15.9
+second 119.5 cpu_percent: 36.0
+memory_usage: available(MB): 3482.7837 free(MB): 201.0399 used_percent: 15.9
+second 120.0 cpu_percent: 34.3
+memory_usage: available(MB): 3482.7837 free(MB): 201.0399 used_percent: 15.9
+second 120.5 cpu_percent: 34.3
+memory_usage: available(MB): 3482.6895 free(MB): 200.9457 used_percent: 15.9
+second 121.0 cpu_percent: 35.7
+memory_usage: available(MB): 3482.6895 free(MB): 200.9457 used_percent: 15.9
+second 121.5 cpu_percent: 35.1
+memory_usage: available(MB): 3482.5298 free(MB): 200.7245 used_percent: 15.9
+second 122.0 cpu_percent: 35.5
+memory_usage: available(MB): 3482.5298 free(MB): 200.7245 used_percent: 15.9
+second 122.5 cpu_percent: 34.3
+memory_usage: available(MB): 3482.5626 free(MB): 200.6917 used_percent: 15.9
+second 123.0 cpu_percent: 36.9
+memory_usage: available(MB): 3482.4028 free(MB): 200.5320 used_percent: 15.9
+second 123.5 cpu_percent: 34.4
+memory_usage: available(MB): 3482.4356 free(MB): 200.5647 used_percent: 15.9
+second 124.0 cpu_percent: 35.8
+memory_usage: available(MB): 3482.2758 free(MB): 200.4050 used_percent: 16.0
+second 124.5 cpu_percent: 34.4
+memory_usage: available(MB): 3481.9850 free(MB): 200.0568 used_percent: 16.0
+second 125.0 cpu_percent: 35.5
+memory_usage: available(MB): 3481.9850 free(MB): 200.0568 used_percent: 16.0
+second 125.5 cpu_percent: 33.8
+memory_usage: available(MB): 3481.8580 free(MB): 199.9299 used_percent: 16.0
+second 126.0 cpu_percent: 34.1
+memory_usage: available(MB): 3481.8580 free(MB): 199.9299 used_percent: 16.0
+second 126.5 cpu_percent: 34.8
+memory_usage: available(MB): 3481.8048 free(MB): 199.8029 used_percent: 16.0
+second 127.0 cpu_percent: 33.7
+memory_usage: available(MB): 3481.8048 free(MB): 199.8029 used_percent: 16.0
+second 127.5 cpu_percent: 34.8
+memory_usage: available(MB): 3481.5099 free(MB): 199.4547 used_percent: 16.0
+second 128.0 cpu_percent: 35.5
+memory_usage: available(MB): 3481.3501 free(MB): 199.2950 used_percent: 16.0
+second 128.5 cpu_percent: 34.6
+memory_usage: available(MB): 3481.3501 free(MB): 199.2950 used_percent: 16.0
+second 129.0 cpu_percent: 35.1
+memory_usage: available(MB): 3481.3501 free(MB): 199.2950 used_percent: 16.0
+second 129.5 cpu_percent: 34.0
+memory_usage: available(MB): 3481.3133 free(MB): 199.2008 used_percent: 16.0
+second 130.0 cpu_percent: 34.1
+memory_usage: available(MB): 3481.1535 free(MB): 199.0410 used_percent: 16.0
+second 130.5 cpu_percent: 36.1
+memory_usage: available(MB): 3481.1535 free(MB): 199.0410 used_percent: 16.0
+second 131.0 cpu_percent: 33.7
+memory_usage: available(MB): 3481.1535 free(MB): 199.0410 used_percent: 16.0
+second 131.5 cpu_percent: 35.7
+memory_usage: available(MB): 3481.1003 free(MB): 198.9140 used_percent: 16.0
+second 132.0 cpu_percent: 36.9
+memory_usage: available(MB): 3480.9405 free(MB): 198.7543 used_percent: 16.0
+second 132.5 cpu_percent: 34.3
+memory_usage: available(MB): 3480.8832 free(MB): 198.6601 used_percent: 16.0
+second 133.0 cpu_percent: 32.8
+memory_usage: available(MB): 3480.8832 free(MB): 198.6601 used_percent: 16.0
+second 133.5 cpu_percent: 32.7
+memory_usage: available(MB): 3480.9160 free(MB): 198.6929 used_percent: 16.0
+second 134.0 cpu_percent: 33.7
+memory_usage: available(MB): 3480.7562 free(MB): 198.5331 used_percent: 16.0
+second 134.5 cpu_percent: 32.0
+memory_usage: available(MB): 3480.7071 free(MB): 198.4061 used_percent: 16.0
+second 135.0 cpu_percent: 34.6
+memory_usage: available(MB): 3480.7071 free(MB): 198.4061 used_percent: 16.0
+second 135.5 cpu_percent: 35.7
+memory_usage: available(MB): 3480.5801 free(MB): 198.2792 used_percent: 16.0
+second 136.0 cpu_percent: 36.0
+memory_usage: available(MB): 3480.5801 free(MB): 198.2792 used_percent: 16.0
+second 136.5 cpu_percent: 35.2
+memory_usage: available(MB): 3480.4285 free(MB): 198.0252 used_percent: 16.0
+second 137.0 cpu_percent: 34.3
+memory_usage: available(MB): 3480.4285 free(MB): 198.0252 used_percent: 16.0
+second 137.5 cpu_percent: 34.1
+memory_usage: available(MB): 3480.4982 free(MB): 198.0580 used_percent: 16.0
+second 138.0 cpu_percent: 35.7
+memory_usage: available(MB): 3480.4982 free(MB): 198.0580 used_percent: 16.0
+second 138.5 cpu_percent: 35.5
+memory_usage: available(MB): 3480.4982 free(MB): 198.0580 used_percent: 16.0
+second 139.0 cpu_percent: 34.3
+memory_usage: available(MB): 3480.4982 free(MB): 198.0580 used_percent: 16.0
+second 139.5 cpu_percent: 35.4
+memory_usage: available(MB): 3480.4982 free(MB): 198.0580 used_percent: 16.0
+second 140.0 cpu_percent: 35.4
+memory_usage: available(MB): 3480.4982 free(MB): 198.0580 used_percent: 16.0
+second 140.5 cpu_percent: 34.3
+memory_usage: available(MB): 3480.5228 free(MB): 198.0252 used_percent: 16.0
+second 141.0 cpu_percent: 34.6
+memory_usage: available(MB): 3480.5555 free(MB): 198.0580 used_percent: 16.0
+second 141.5 cpu_percent: 35.8
+memory_usage: available(MB): 3480.6006 free(MB): 198.0252 used_percent: 16.0
+second 142.0 cpu_percent: 35.1
+memory_usage: available(MB): 3480.6006 free(MB): 198.0252 used_percent: 16.0
+second 142.5 cpu_percent: 34.4
+memory_usage: available(MB): 3480.6415 free(MB): 198.0580 used_percent: 16.0
+second 143.0 cpu_percent: 34.8
+memory_usage: available(MB): 3480.6415 free(MB): 198.0580 used_percent: 16.0
+second 143.5 cpu_percent: 35.2
+memory_usage: available(MB): 3480.6989 free(MB): 198.0580 used_percent: 16.0
+second 144.0 cpu_percent: 37.6
+memory_usage: available(MB): 3480.7316 free(MB): 198.0908 used_percent: 16.0
+second 144.5 cpu_percent: 35.1
+memory_usage: available(MB): 3480.7562 free(MB): 198.0580 used_percent: 16.0
+second 145.0 cpu_percent: 36.3
+memory_usage: available(MB): 3480.7562 free(MB): 198.0580 used_percent: 16.0
+second 145.5 cpu_percent: 36.2
+memory_usage: available(MB): 3480.7562 free(MB): 198.0580 used_percent: 16.0
+second 146.0 cpu_percent: 34.1
+memory_usage: available(MB): 3480.7562 free(MB): 198.0580 used_percent: 16.0
+second 146.5 cpu_percent: 35.2
+memory_usage: available(MB): 3480.6784 free(MB): 197.8982 used_percent: 16.0
+second 147.0 cpu_percent: 34.3
+memory_usage: available(MB): 3480.6784 free(MB): 197.8982 used_percent: 16.0
+second 147.5 cpu_percent: 35.1
+memory_usage: available(MB): 3480.6784 free(MB): 197.8982 used_percent: 16.0
+second 148.0 cpu_percent: 36.0
+memory_usage: available(MB): 3480.6784 free(MB): 197.8982 used_percent: 16.0
+second 148.5 cpu_percent: 34.4
+memory_usage: available(MB): 3480.7685 free(MB): 197.9310 used_percent: 16.0
+second 149.0 cpu_percent: 33.8
+memory_usage: available(MB): 3480.7685 free(MB): 197.9310 used_percent: 16.0
+second 149.5 cpu_percent: 35.1
+memory_usage: available(MB): 3480.7808 free(MB): 197.9310 used_percent: 16.0
+second 150.0 cpu_percent: 35.2
+memory_usage: available(MB): 3480.7808 free(MB): 197.9310 used_percent: 16.0
+second 150.5 cpu_percent: 34.6
+memory_usage: available(MB): 3480.8381 free(MB): 197.9310 used_percent: 16.0
+second 151.0 cpu_percent: 35.4
+memory_usage: available(MB): 3480.6784 free(MB): 197.7713 used_percent: 16.0
+second 151.5 cpu_percent: 35.7
+memory_usage: available(MB): 3480.7521 free(MB): 197.8040 used_percent: 16.0
+second 152.0 cpu_percent: 35.4
+memory_usage: available(MB): 3480.7521 free(MB): 197.8040 used_percent: 16.0
+second 152.5 cpu_percent: 36.6
+memory_usage: available(MB): 3480.7562 free(MB): 197.8040 used_percent: 16.0
+second 153.0 cpu_percent: 36.7
+memory_usage: available(MB): 3480.4122 free(MB): 197.4600 used_percent: 16.0
+second 153.5 cpu_percent: 37.4
+memory_usage: available(MB): 3479.9452 free(MB): 196.8783 used_percent: 16.0
+second 154.0 cpu_percent: 38.0
+memory_usage: available(MB): 3479.6093 free(MB): 196.5425 used_percent: 16.0
+second 154.5 cpu_percent: 36.5
+memory_usage: available(MB): 3479.4619 free(MB): 196.3377 used_percent: 16.0
+second 155.0 cpu_percent: 37.0
+memory_usage: available(MB): 3479.2612 free(MB): 196.1370 used_percent: 16.0
+second 155.5 cpu_percent: 37.1
+memory_usage: available(MB): 3478.9868 free(MB): 195.8052 used_percent: 16.0
+second 156.0 cpu_percent: 36.8
+memory_usage: available(MB): 3478.9868 free(MB): 195.8052 used_percent: 16.0
+second 156.5 cpu_percent: 38.2
+memory_usage: available(MB): 3478.8434 free(MB): 195.5308 used_percent: 16.0
+second 157.0 cpu_percent: 37.9
+memory_usage: available(MB): 3478.8639 free(MB): 195.5512 used_percent: 16.0
+second 157.5 cpu_percent: 37.4
+memory_usage: available(MB): 3478.4952 free(MB): 195.1252 used_percent: 16.0
+second 158.0 cpu_percent: 38.0
+memory_usage: available(MB): 3477.9136 free(MB): 194.5436 used_percent: 16.1
+second 158.5 cpu_percent: 36.5
+memory_usage: available(MB): 3478.0570 free(MB): 194.6419 used_percent: 16.1
+second 159.0 cpu_percent: 37.6
+memory_usage: available(MB): 3478.1225 free(MB): 194.7075 used_percent: 16.1
+second 159.5 cpu_percent: 37.7
+memory_usage: available(MB): 3478.2495 free(MB): 194.7771 used_percent: 16.0
+second 160.0 cpu_percent: 37.1
+memory_usage: available(MB): 3478.0283 free(MB): 194.5559 used_percent: 16.1
+second 160.5 cpu_percent: 37.1
+memory_usage: available(MB): 3477.9300 free(MB): 194.3511 used_percent: 16.1
+second 161.0 cpu_percent: 37.7
+memory_usage: available(MB): 3477.5941 free(MB): 194.0152 used_percent: 16.1
+second 161.5 cpu_percent: 36.8
+memory_usage: available(MB): 3477.7006 free(MB): 193.9948 used_percent: 16.1
+second 162.0 cpu_percent: 35.1
+memory_usage: available(MB): 3477.4958 free(MB): 193.7900 used_percent: 16.1
+second 162.5 cpu_percent: 37.4
+memory_usage: available(MB): 3477.3074 free(MB): 193.5360 used_percent: 16.1
+second 163.0 cpu_percent: 37.9
+memory_usage: available(MB): 3476.9510 free(MB): 193.1796 used_percent: 16.1
+second 163.5 cpu_percent: 36.5
+memory_usage: available(MB): 3477.0248 free(MB): 193.1960 used_percent: 16.1
+second 164.0 cpu_percent: 37.0
+memory_usage: available(MB): 3476.7299 free(MB): 192.9011 used_percent: 16.1
+second 164.5 cpu_percent: 36.8
+memory_usage: available(MB): 3476.3162 free(MB): 192.4301 used_percent: 16.1
+second 165.0 cpu_percent: 35.9
+memory_usage: available(MB): 3476.0090 free(MB): 192.1229 used_percent: 16.1
+second 165.5 cpu_percent: 37.1
+memory_usage: available(MB): 3475.9188 free(MB): 191.9754 used_percent: 16.1
+second 166.0 cpu_percent: 35.9
+memory_usage: available(MB): 3475.6157 free(MB): 191.6723 used_percent: 16.1
+second 166.5 cpu_percent: 37.1
+memory_usage: available(MB): 3475.5625 free(MB): 191.5044 used_percent: 16.1
+second 167.0 cpu_percent: 37.1
+memory_usage: available(MB): 3475.4109 free(MB): 191.3528 used_percent: 16.1
+second 167.5 cpu_percent: 37.0
+memory_usage: available(MB): 3475.2307 free(MB): 191.1030 used_percent: 16.1
+second 168.0 cpu_percent: 36.8
+memory_usage: available(MB): 3474.9071 free(MB): 190.7794 used_percent: 16.1
+second 168.5 cpu_percent: 38.1
+memory_usage: available(MB): 3475.0095 free(MB): 190.8408 used_percent: 16.1
+second 169.0 cpu_percent: 38.6
+memory_usage: available(MB): 3474.6696 free(MB): 190.5009 used_percent: 16.1
+second 169.5 cpu_percent: 36.8
+memory_usage: available(MB): 3474.4771 free(MB): 190.2264 used_percent: 16.1
+second 170.0 cpu_percent: 37.1
+memory_usage: available(MB): 3474.1371 free(MB): 189.8865 used_percent: 16.1
+second 170.5 cpu_percent: 37.3
+memory_usage: available(MB): 3474.2477 free(MB): 189.9397 used_percent: 16.1
+second 171.0 cpu_percent: 36.1
+memory_usage: available(MB): 3474.1248 free(MB): 189.8168 used_percent: 16.1
+second 171.5 cpu_percent: 37.0
+memory_usage: available(MB): 3473.8176 free(MB): 189.3949 used_percent: 16.2
+second 172.0 cpu_percent: 36.4
+memory_usage: available(MB): 3473.4121 free(MB): 188.9894 used_percent: 16.2
+second 172.5 cpu_percent: 37.1
+memory_usage: available(MB): 3473.2360 free(MB): 188.7232 used_percent: 16.2
+second 173.0 cpu_percent: 37.1
+memory_usage: available(MB): 3473.1991 free(MB): 188.6863 used_percent: 16.2
+second 173.5 cpu_percent: 36.7
+memory_usage: available(MB): 3472.6298 free(MB): 188.0801 used_percent: 16.2
+second 174.0 cpu_percent: 36.8
+memory_usage: available(MB): 3472.6298 free(MB): 188.0801 used_percent: 16.2
+second 174.5 cpu_percent: 37.0
+memory_usage: available(MB): 3472.4004 free(MB): 187.7934 used_percent: 16.2
+second 175.0 cpu_percent: 36.7
+memory_usage: available(MB): 3472.0645 free(MB): 187.4575 used_percent: 16.2
+second 175.5 cpu_percent: 36.8
+memory_usage: available(MB): 3471.7737 free(MB): 187.0520 used_percent: 16.2
+second 176.0 cpu_percent: 36.7
+memory_usage: available(MB): 3471.4460 free(MB): 186.7244 used_percent: 16.2
+second 176.5 cpu_percent: 36.8
+memory_usage: available(MB): 3471.1880 free(MB): 186.3762 used_percent: 16.2
+second 177.0 cpu_percent: 37.1
+memory_usage: available(MB): 3470.7743 free(MB): 185.9625 used_percent: 16.2
+second 177.5 cpu_percent: 35.9
+memory_usage: available(MB): 3470.2746 free(MB): 185.4136 used_percent: 16.2
+second 178.0 cpu_percent: 36.4
+memory_usage: available(MB): 3470.4302 free(MB): 185.5693 used_percent: 16.2
+second 178.5 cpu_percent: 35.7
+memory_usage: available(MB): 3470.1558 free(MB): 185.2948 used_percent: 16.2
+second 179.0 cpu_percent: 36.1
+memory_usage: available(MB): 3470.1558 free(MB): 185.2948 used_percent: 16.2
+second 179.5 cpu_percent: 35.1
+memory_usage: available(MB): 3470.0984 free(MB): 185.1802 used_percent: 16.2
+second 180.0 cpu_percent: 35.0
+memory_usage: available(MB): 3470.0984 free(MB): 185.1802 used_percent: 16.2
+second 180.5 cpu_percent: 35.5
+memory_usage: available(MB): 3470.0329 free(MB): 185.0573 used_percent: 16.2
+second 181.0 cpu_percent: 35.0
+memory_usage: available(MB): 3469.8240 free(MB): 184.8484 used_percent: 16.3
+second 181.5 cpu_percent: 35.1
+memory_usage: available(MB): 3469.4840 free(MB): 184.4838 used_percent: 16.3
+second 182.0 cpu_percent: 35.8
+memory_usage: available(MB): 3469.4595 free(MB): 184.4593 used_percent: 16.3
+second 182.5 cpu_percent: 36.0
+memory_usage: available(MB): 3469.4021 free(MB): 184.3405 used_percent: 16.3
+second 183.0 cpu_percent: 34.4
+memory_usage: available(MB): 3469.3202 free(MB): 184.2586 used_percent: 16.3
+second 183.5 cpu_percent: 36.0
+memory_usage: available(MB): 3469.2465 free(MB): 184.1848 used_percent: 16.3
+second 184.0 cpu_percent: 34.9
+memory_usage: available(MB): 3469.1809 free(MB): 184.1193 used_percent: 16.3
+second 184.5 cpu_percent: 33.5
+memory_usage: available(MB): 3469.1727 free(MB): 184.0538 used_percent: 16.3
+second 185.0 cpu_percent: 34.6
+memory_usage: available(MB): 3469.1727 free(MB): 184.0538 used_percent: 16.3
+second 185.5 cpu_percent: 35.1
+memory_usage: available(MB): 3468.7386 free(MB): 183.6196 used_percent: 16.3
+second 186.0 cpu_percent: 34.8
+memory_usage: available(MB): 3468.7386 free(MB): 183.6196 used_percent: 16.3
+second 186.5 cpu_percent: 34.9
+memory_usage: available(MB): 3468.7345 free(MB): 183.4967 used_percent: 16.3
+second 187.0 cpu_percent: 35.2
+memory_usage: available(MB): 3468.7345 free(MB): 183.4967 used_percent: 16.3
+second 187.5 cpu_percent: 36.0
+memory_usage: available(MB): 3468.4969 free(MB): 183.2223 used_percent: 16.3
+second 188.0 cpu_percent: 35.8
+memory_usage: available(MB): 3468.4969 free(MB): 183.2223 used_percent: 16.3
+second 188.5 cpu_percent: 36.3
+memory_usage: available(MB): 3468.3249 free(MB): 183.0502 used_percent: 16.3
+second 189.0 cpu_percent: 35.4
+memory_usage: available(MB): 3468.3249 free(MB): 183.0502 used_percent: 16.3
+second 189.5 cpu_percent: 35.1
+memory_usage: available(MB): 3468.0504 free(MB): 182.7758 used_percent: 16.3
+second 190.0 cpu_percent: 35.1
+memory_usage: available(MB): 3467.8743 free(MB): 182.5997 used_percent: 16.3
+second 190.5 cpu_percent: 36.3
+memory_usage: available(MB): 3467.8170 free(MB): 182.4850 used_percent: 16.3
+second 191.0 cpu_percent: 35.5
+memory_usage: available(MB): 3467.8170 free(MB): 182.4850 used_percent: 16.3
+second 191.5 cpu_percent: 36.3
+memory_usage: available(MB): 3467.5548 free(MB): 182.1245 used_percent: 16.3
+second 192.0 cpu_percent: 35.4
+memory_usage: available(MB): 3467.3459 free(MB): 181.9156 used_percent: 16.3
+second 192.5 cpu_percent: 35.5
+memory_usage: available(MB): 3467.2804 free(MB): 181.8419 used_percent: 16.3
+second 193.0 cpu_percent: 36.3
+memory_usage: available(MB): 3467.1247 free(MB): 181.6863 used_percent: 16.3
+second 193.5 cpu_percent: 35.5
+memory_usage: available(MB): 3467.1247 free(MB): 181.6863 used_percent: 16.3
+second 194.0 cpu_percent: 35.5
+memory_usage: available(MB): 3466.8913 free(MB): 181.4528 used_percent: 16.3
+second 194.5 cpu_percent: 35.5
+memory_usage: available(MB): 3466.8749 free(MB): 181.3791 used_percent: 16.3
+second 195.0 cpu_percent: 34.4
+memory_usage: available(MB): 3466.8749 free(MB): 181.3791 used_percent: 16.3
+second 195.5 cpu_percent: 34.8
+memory_usage: available(MB): 3466.5841 free(MB): 181.0883 used_percent: 16.3
+second 196.0 cpu_percent: 36.9
+memory_usage: available(MB): 3466.5841 free(MB): 181.0883 used_percent: 16.3
+second 196.5 cpu_percent: 36.4
+memory_usage: available(MB): 3466.4243 free(MB): 180.8056 used_percent: 16.3
+second 197.0 cpu_percent: 34.3
+memory_usage: available(MB): 3466.4243 free(MB): 180.8056 used_percent: 16.3
+second 197.5 cpu_percent: 36.0
+memory_usage: available(MB): 3466.2973 free(MB): 180.6500 used_percent: 16.3
+second 198.0 cpu_percent: 36.0
+memory_usage: available(MB): 3466.2973 free(MB): 180.6500 used_percent: 16.3
+second 198.5 cpu_percent: 33.8
+memory_usage: available(MB): 3466.0229 free(MB): 180.3756 used_percent: 16.3
+second 199.0 cpu_percent: 35.5
+memory_usage: available(MB): 3466.0229 free(MB): 180.3756 used_percent: 16.3
+second 199.5 cpu_percent: 35.2
+memory_usage: available(MB): 3465.7731 free(MB): 180.1257 used_percent: 16.4
+second 200.0 cpu_percent: 35.8
+memory_usage: available(MB): 3465.5642 free(MB): 179.9168 used_percent: 16.4
+second 200.5 cpu_percent: 35.2
+memory_usage: available(MB): 3465.2201 free(MB): 179.5154 used_percent: 16.4
+second 201.0 cpu_percent: 35.8
+memory_usage: available(MB): 3465.2201 free(MB): 179.5154 used_percent: 16.4
+second 201.5 cpu_percent: 34.9
+memory_usage: available(MB): 3464.9334 free(MB): 179.1549 used_percent: 16.4
+second 202.0 cpu_percent: 34.8
+memory_usage: available(MB): 3464.9334 free(MB): 179.1549 used_percent: 16.4
+second 202.5 cpu_percent: 36.0
+memory_usage: available(MB): 3464.7122 free(MB): 178.8969 used_percent: 16.4
+second 203.0 cpu_percent: 34.8
+memory_usage: available(MB): 3464.4582 free(MB): 178.6429 used_percent: 16.4
+second 203.5 cpu_percent: 35.4
+memory_usage: available(MB): 3464.2780 free(MB): 178.4627 used_percent: 16.4
+second 204.0 cpu_percent: 34.1
+memory_usage: available(MB): 3464.1961 free(MB): 178.3808 used_percent: 16.4
+second 204.5 cpu_percent: 34.8
+memory_usage: available(MB): 3464.0773 free(MB): 178.2047 used_percent: 16.4
+second 205.0 cpu_percent: 35.4
+memory_usage: available(MB): 3463.8520 free(MB): 177.9794 used_percent: 16.4
+second 205.5 cpu_percent: 34.4
+memory_usage: available(MB): 3463.7619 free(MB): 177.8893 used_percent: 16.4
+second 206.0 cpu_percent: 35.7
+memory_usage: available(MB): 3463.5940 free(MB): 177.7213 used_percent: 16.4
+second 206.5 cpu_percent: 35.7
+memory_usage: available(MB): 3463.5489 free(MB): 177.6067 used_percent: 16.4
+second 207.0 cpu_percent: 34.4
+memory_usage: available(MB): 3463.1967 free(MB): 177.2544 used_percent: 16.4
+second 207.5 cpu_percent: 36.1
+memory_usage: available(MB): 3463.0328 free(MB): 177.0455 used_percent: 16.4
+second 208.0 cpu_percent: 35.2
+memory_usage: available(MB): 3463.0328 free(MB): 177.0455 used_percent: 16.4
+second 208.5 cpu_percent: 35.4
+memory_usage: available(MB): 3462.7748 free(MB): 176.7875 used_percent: 16.4
+second 209.0 cpu_percent: 34.6
+memory_usage: available(MB): 3462.4061 free(MB): 176.4188 used_percent: 16.4
+second 209.5 cpu_percent: 35.1
+memory_usage: available(MB): 3462.4307 free(MB): 176.3860 used_percent: 16.4
+second 210.0 cpu_percent: 34.6
+memory_usage: available(MB): 3462.2300 free(MB): 176.1853 used_percent: 16.4
+second 210.5 cpu_percent: 34.1
+memory_usage: available(MB): 3462.0539 free(MB): 176.0092 used_percent: 16.4
+second 211.0 cpu_percent: 37.6
+memory_usage: available(MB): 3461.8982 free(MB): 175.8536 used_percent: 16.4
+second 211.5 cpu_percent: 36.0
+memory_usage: available(MB): 3461.7098 free(MB): 175.5423 used_percent: 16.4
+second 212.0 cpu_percent: 34.1
+memory_usage: available(MB): 3461.7098 free(MB): 175.5423 used_percent: 16.4
+second 212.5 cpu_percent: 34.4
+memory_usage: available(MB): 3461.6812 free(MB): 175.5136 used_percent: 16.4
+second 213.0 cpu_percent: 35.7
+memory_usage: available(MB): 3461.5214 free(MB): 175.3539 used_percent: 16.5
+second 213.5 cpu_percent: 34.3
+memory_usage: available(MB): 3461.3617 free(MB): 175.1941 used_percent: 16.5
+second 214.0 cpu_percent: 36.3
+memory_usage: available(MB): 3461.3617 free(MB): 175.1941 used_percent: 16.5
+second 214.5 cpu_percent: 34.9
+memory_usage: available(MB): 3461.0463 free(MB): 174.8214 used_percent: 16.5
+second 215.0 cpu_percent: 31.7
+memory_usage: available(MB): 3461.0463 free(MB): 174.8214 used_percent: 16.5
+second 215.5 cpu_percent: 25.5
+memory_usage: available(MB): 3461.0954 free(MB): 174.8705 used_percent: 16.5
+second 216.0 cpu_percent: 25.3
+memory_usage: available(MB): 3461.0954 free(MB): 174.8705 used_percent: 16.5
+second 216.5 cpu_percent: 25.3
+memory_usage: available(MB): 3461.1896 free(MB): 174.8705 used_percent: 16.5
+second 217.0 cpu_percent: 25.9
+memory_usage: available(MB): 3461.1896 free(MB): 174.8705 used_percent: 16.5
+second 217.5 cpu_percent: 25.1
+memory_usage: available(MB): 3461.1978 free(MB): 174.8705 used_percent: 16.5
+second 218.0 cpu_percent: 25.3
+memory_usage: available(MB): 3461.1978 free(MB): 174.8705 used_percent: 16.5
+second 218.5 cpu_percent: 25.0
+memory_usage: available(MB): 3461.1978 free(MB): 174.8705 used_percent: 16.5
+second 219.0 cpu_percent: 25.3
+memory_usage: available(MB): 3461.1978 free(MB): 174.8705 used_percent: 16.5
+second 219.5 cpu_percent: 25.1
+memory_usage: available(MB): 3461.2101 free(MB): 174.8705 used_percent: 16.5
+second 220.0 cpu_percent: 25.1
+memory_usage: available(MB): 3461.2101 free(MB): 174.8705 used_percent: 16.5
+second 220.5 cpu_percent: 25.1
+memory_usage: available(MB): 3461.2101 free(MB): 174.8705 used_percent: 16.5
+second 221.0 cpu_percent: 25.1
+memory_usage: available(MB): 3461.2101 free(MB): 174.8705 used_percent: 16.5
+second 221.5 cpu_percent: 25.8
+memory_usage: available(MB): 3461.2101 free(MB): 174.8705 used_percent: 16.5
+second 222.0 cpu_percent: 25.9
+memory_usage: available(MB): 3461.2101 free(MB): 174.8705 used_percent: 16.5
+second 222.5 cpu_percent: 25.1
+memory_usage: available(MB): 3461.2183 free(MB): 174.8705 used_percent: 16.5
+second 223.0 cpu_percent: 25.3
+memory_usage: available(MB): 3461.2183 free(MB): 174.8705 used_percent: 16.5
+second 223.5 cpu_percent: 25.5
+memory_usage: available(MB): 3461.2183 free(MB): 174.8705 used_percent: 16.5
+second 224.0 cpu_percent: 25.1
+memory_usage: available(MB): 3461.2183 free(MB): 174.8705 used_percent: 16.5
+second 224.5 cpu_percent: 25.1
+memory_usage: available(MB): 3461.2306 free(MB): 174.8705 used_percent: 16.5
+second 225.0 cpu_percent: 25.5
+memory_usage: available(MB): 3461.2306 free(MB): 174.8705 used_percent: 16.5
+second 225.5 cpu_percent: 31.4
+memory_usage: available(MB): 3461.2306 free(MB): 174.8705 used_percent: 16.5
+second 226.0 cpu_percent: 34.1
+memory_usage: available(MB): 3461.2306 free(MB): 174.8705 used_percent: 16.5
+second 226.5 cpu_percent: 36.4
+memory_usage: available(MB): 3461.1446 free(MB): 174.7599 used_percent: 16.5
+second 227.0 cpu_percent: 35.8
+memory_usage: available(MB): 3461.1446 free(MB): 174.7599 used_percent: 16.5
+second 227.5 cpu_percent: 35.8
+memory_usage: available(MB): 3461.1200 free(MB): 174.7272 used_percent: 16.5
+second 228.0 cpu_percent: 34.9
+memory_usage: available(MB): 3461.1200 free(MB): 174.7272 used_percent: 16.5
+second 228.5 cpu_percent: 35.2
+memory_usage: available(MB): 3461.1528 free(MB): 174.7599 used_percent: 16.5
+second 229.0 cpu_percent: 36.3
+memory_usage: available(MB): 3461.1528 free(MB): 174.7599 used_percent: 16.5
+second 229.5 cpu_percent: 34.8
+memory_usage: available(MB): 3461.3780 free(MB): 174.9279 used_percent: 16.5
+second 230.0 cpu_percent: 32.5
+memory_usage: available(MB): 3461.2142 free(MB): 174.7640 used_percent: 16.5
+second 230.5 cpu_percent: 34.3
+memory_usage: available(MB): 3461.3985 free(MB): 174.8910 used_percent: 16.5
+second 231.0 cpu_percent: 34.8
+memory_usage: available(MB): 3460.9848 free(MB): 174.4773 used_percent: 16.5
+second 231.5 cpu_percent: 33.2
+memory_usage: available(MB): 3460.9848 free(MB): 174.4282 used_percent: 16.5
+second 232.0 cpu_percent: 33.5
+memory_usage: available(MB): 3460.8538 free(MB): 174.2971 used_percent: 16.5
+second 232.5 cpu_percent: 34.8
+memory_usage: available(MB): 3460.9193 free(MB): 174.2971 used_percent: 16.5
+second 233.0 cpu_percent: 34.8
+memory_usage: available(MB): 3460.9193 free(MB): 174.2971 used_percent: 16.5
+second 233.5 cpu_percent: 35.4
+memory_usage: available(MB): 3460.8538 free(MB): 174.2316 used_percent: 16.5
+second 234.0 cpu_percent: 36.3
+memory_usage: available(MB): 3461.1487 free(MB): 174.5265 used_percent: 16.5
+second 234.5 cpu_percent: 35.8
+memory_usage: available(MB): 3461.2142 free(MB): 174.5920 used_percent: 16.5
+second 235.0 cpu_percent: 35.8
+memory_usage: available(MB): 3461.2142 free(MB): 174.5920 used_percent: 16.5
+second 235.5 cpu_percent: 35.4
+memory_usage: available(MB): 3461.3043 free(MB): 174.6248 used_percent: 16.5
+second 236.0 cpu_percent: 36.6
+memory_usage: available(MB): 3461.3043 free(MB): 174.6248 used_percent: 16.5
+second 236.5 cpu_percent: 34.9
+memory_usage: available(MB): 3461.3125 free(MB): 174.5592 used_percent: 16.5
+second 237.0 cpu_percent: 35.1
+memory_usage: available(MB): 3461.3125 free(MB): 174.5592 used_percent: 16.5
+second 237.5 cpu_percent: 34.9
+memory_usage: available(MB): 3461.3371 free(MB): 174.5592 used_percent: 16.5
+second 238.0 cpu_percent: 35.5
+memory_usage: available(MB): 3461.3371 free(MB): 174.5592 used_percent: 16.5
+second 238.5 cpu_percent: 35.7
+memory_usage: available(MB): 3461.3043 free(MB): 174.5265 used_percent: 16.5
+second 239.0 cpu_percent: 35.2
+memory_usage: available(MB): 3461.3043 free(MB): 174.5265 used_percent: 16.5
+second 239.5 cpu_percent: 42.9
+memory_usage: available(MB): 3461.1692 free(MB): 174.2930 used_percent: 16.5
+second 240.0 cpu_percent: 46.7
+memory_usage: available(MB): 3460.8415 free(MB): 173.9653 used_percent: 16.5
+second 240.5 cpu_percent: 37.3
+memory_usage: available(MB): 3460.6940 free(MB): 173.6663 used_percent: 16.5
+second 241.0 cpu_percent: 37.6
+memory_usage: available(MB): 3460.7800 free(MB): 173.7523 used_percent: 16.5
+second 241.5 cpu_percent: 36.4
+memory_usage: available(MB): 3460.8087 free(MB): 173.7155 used_percent: 16.5
+second 242.0 cpu_percent: 37.0
+memory_usage: available(MB): 3460.8906 free(MB): 173.7974 used_percent: 16.5
+second 242.5 cpu_percent: 36.8
+memory_usage: available(MB): 3460.8169 free(MB): 173.6335 used_percent: 16.5
+second 243.0 cpu_percent: 37.7
+memory_usage: available(MB): 3460.9480 free(MB): 173.7646 used_percent: 16.5
+second 243.5 cpu_percent: 36.5
+memory_usage: available(MB): 3461.0094 free(MB): 173.7892 used_percent: 16.5
+second 244.0 cpu_percent: 37.1
+memory_usage: available(MB): 3461.3248 free(MB): 174.1046 used_percent: 16.5
+second 244.5 cpu_percent: 36.2
+memory_usage: available(MB): 3461.3043 free(MB): 173.9776 used_percent: 16.5
+second 245.0 cpu_percent: 34.3
+memory_usage: available(MB): 3461.3371 free(MB): 174.0104 used_percent: 16.5
+second 245.5 cpu_percent: 34.5
+memory_usage: available(MB): 3461.4641 free(MB): 174.0759 used_percent: 16.5
+second 246.0 cpu_percent: 36.6
+memory_usage: available(MB): 3461.4641 free(MB): 174.0759 used_percent: 16.5
+second 246.5 cpu_percent: 34.7
+memory_usage: available(MB): 3461.0463 free(MB): 173.5352 used_percent: 16.5
+second 247.0 cpu_percent: 34.8
+memory_usage: available(MB): 3461.0586 free(MB): 173.5475 used_percent: 16.5
+second 247.5 cpu_percent: 37.0
+memory_usage: available(MB): 3461.2019 free(MB): 173.6335 used_percent: 16.5
+second 248.0 cpu_percent: 36.5
+memory_usage: available(MB): 3461.0381 free(MB): 173.4697 used_percent: 16.5
+second 248.5 cpu_percent: 37.0
+memory_usage: available(MB): 3461.0586 free(MB): 173.4410 used_percent: 16.5
+second 249.0 cpu_percent: 36.2
+memory_usage: available(MB): 3461.0299 free(MB): 173.4124 used_percent: 16.5
+second 249.5 cpu_percent: 36.1
+memory_usage: available(MB): 3461.0872 free(MB): 173.4124 used_percent: 16.5
+second 250.0 cpu_percent: 36.5
+memory_usage: available(MB): 3460.9275 free(MB): 173.2526 used_percent: 16.5
+second 250.5 cpu_percent: 35.9
+memory_usage: available(MB): 3460.7309 free(MB): 172.9413 used_percent: 16.5
+second 251.0 cpu_percent: 36.0
+memory_usage: available(MB): 3461.7631 free(MB): 173.9735 used_percent: 16.4
+second 251.5 cpu_percent: 37.1
+memory_usage: available(MB): 3461.7631 free(MB): 173.8875 used_percent: 16.4
+second 252.0 cpu_percent: 37.0
+memory_usage: available(MB): 3461.8450 free(MB): 173.9694 used_percent: 16.4
+second 252.5 cpu_percent: 35.4
+memory_usage: available(MB): 3461.4395 free(MB): 173.4861 used_percent: 16.5
+second 253.0 cpu_percent: 38.4
+memory_usage: available(MB): 3461.4067 free(MB): 173.4533 used_percent: 16.5
+second 253.5 cpu_percent: 35.9
+memory_usage: available(MB): 3461.6812 free(MB): 173.6868 used_percent: 16.4
+second 254.0 cpu_percent: 35.9
+memory_usage: available(MB): 3461.9392 free(MB): 173.9448 used_percent: 16.4
+second 254.5 cpu_percent: 36.1
+memory_usage: available(MB): 3461.9187 free(MB): 173.8383 used_percent: 16.4
+second 255.0 cpu_percent: 37.4
+memory_usage: available(MB): 3462.0170 free(MB): 173.9366 used_percent: 16.4
+second 255.5 cpu_percent: 35.3
+memory_usage: available(MB): 3461.9761 free(MB): 173.8383 used_percent: 16.4
+second 256.0 cpu_percent: 36.5
+memory_usage: available(MB): 3461.9761 free(MB): 173.8383 used_percent: 16.4
+second 256.5 cpu_percent: 37.3
+memory_usage: available(MB): 3461.9679 free(MB): 173.7441 used_percent: 16.4
+second 257.0 cpu_percent: 37.4
+memory_usage: available(MB): 3461.9679 free(MB): 173.7441 used_percent: 16.4
+second 257.5 cpu_percent: 36.5
+memory_usage: available(MB): 3461.8163 free(MB): 173.5270 used_percent: 16.4
+second 258.0 cpu_percent: 37.0
+memory_usage: available(MB): 3461.8163 free(MB): 173.5270 used_percent: 16.4
+second 258.5 cpu_percent: 35.6
+memory_usage: available(MB): 3461.9310 free(MB): 173.5557 used_percent: 16.4
+second 259.0 cpu_percent: 36.4
+memory_usage: available(MB): 3461.6812 free(MB): 173.3059 used_percent: 16.4
+second 259.5 cpu_percent: 36.1
+memory_usage: available(MB): 3461.8163 free(MB): 173.3632 used_percent: 16.4
+second 260.0 cpu_percent: 37.3
+memory_usage: available(MB): 3461.8163 free(MB): 173.3632 used_percent: 16.4
+second 260.5 cpu_percent: 37.0
+memory_usage: available(MB): 3461.8737 free(MB): 173.3632 used_percent: 16.4
+second 261.0 cpu_percent: 38.5
+memory_usage: available(MB): 3461.8737 free(MB): 173.3632 used_percent: 16.4
+second 261.5 cpu_percent: 36.2
+memory_usage: available(MB): 3462.0703 free(MB): 173.4615 used_percent: 16.4
+second 262.0 cpu_percent: 37.4
+memory_usage: available(MB): 3462.0703 free(MB): 173.4615 used_percent: 16.4
+second 262.5 cpu_percent: 34.8
+memory_usage: available(MB): 3461.7221 free(MB): 173.0724 used_percent: 16.4
+second 263.0 cpu_percent: 36.5
+memory_usage: available(MB): 3461.8204 free(MB): 173.1707 used_percent: 16.4
+second 263.5 cpu_percent: 35.9
+memory_usage: available(MB): 3461.7836 free(MB): 173.0765 used_percent: 16.4
+second 264.0 cpu_percent: 36.8
+memory_usage: available(MB): 3461.9146 free(MB): 173.2076 used_percent: 16.4
+second 264.5 cpu_percent: 35.7
+memory_usage: available(MB): 3461.8081 free(MB): 173.0437 used_percent: 16.4
+second 265.0 cpu_percent: 35.0
+memory_usage: available(MB): 3461.7754 free(MB): 173.0109 used_percent: 16.4
+second 265.5 cpu_percent: 37.0
+memory_usage: available(MB): 3461.9556 free(MB): 173.0765 used_percent: 16.4
+second 266.0 cpu_percent: 37.1
+memory_usage: available(MB): 3461.8900 free(MB): 173.0109 used_percent: 16.4
+second 266.5 cpu_percent: 35.6
+memory_usage: available(MB): 3461.8409 free(MB): 172.8922 used_percent: 16.4
+second 267.0 cpu_percent: 38.3
+memory_usage: available(MB): 3462.0211 free(MB): 173.0724 used_percent: 16.4
+second 267.5 cpu_percent: 35.9
+memory_usage: available(MB): 3461.8860 free(MB): 172.8553 used_percent: 16.4
+second 268.0 cpu_percent: 36.1
+memory_usage: available(MB): 3461.8860 free(MB): 172.8553 used_percent: 16.4
+second 268.5 cpu_percent: 35.9
+memory_usage: available(MB): 3462.0088 free(MB): 172.9208 used_percent: 16.4
+second 269.0 cpu_percent: 37.3
+memory_usage: available(MB): 3462.1645 free(MB): 173.0765 used_percent: 16.4
+second 269.5 cpu_percent: 37.7
+memory_usage: available(MB): 3462.0621 free(MB): 172.8594 used_percent: 16.4
+second 270.0 cpu_percent: 36.8
+memory_usage: available(MB): 3461.8982 free(MB): 172.6956 used_percent: 16.4
+second 270.5 cpu_percent: 35.7
+memory_usage: available(MB): 3461.9638 free(MB): 172.7611 used_percent: 16.4
+second 271.0 cpu_percent: 36.7
+memory_usage: available(MB): 3462.1276 free(MB): 172.9249 used_percent: 16.4
+second 271.5 cpu_percent: 35.4
+memory_usage: available(MB): 3461.9679 free(MB): 172.6628 used_percent: 16.4
+second 272.0 cpu_percent: 36.2
+memory_usage: available(MB): 3473.4080 free(MB): 184.1029 used_percent: 16.2
+second 272.5 cpu_percent: 37.0
+memory_usage: available(MB): 3473.6415 free(MB): 184.2217 used_percent: 16.2
+second 273.0 cpu_percent: 36.8
+memory_usage: available(MB): 3473.6415 free(MB): 184.2217 used_percent: 16.2
+second 273.5 cpu_percent: 37.1
+memory_usage: available(MB): 3473.8627 free(MB): 184.3855 used_percent: 16.2
+second 274.0 cpu_percent: 36.2
+memory_usage: available(MB): 3473.5718 free(MB): 184.0947 used_percent: 16.2
+second 274.5 cpu_percent: 36.8
+memory_usage: available(MB): 3473.7357 free(MB): 184.2012 used_percent: 16.2
+second 275.0 cpu_percent: 37.4
+memory_usage: available(MB): 3473.6374 free(MB): 184.1029 used_percent: 16.2
+second 275.5 cpu_percent: 34.5
+memory_usage: available(MB): 3474.4566 free(MB): 184.8648 used_percent: 16.1
+second 276.0 cpu_percent: 37.3
+memory_usage: available(MB): 3474.2067 free(MB): 184.6149 used_percent: 16.1
+second 276.5 cpu_percent: 37.0
+memory_usage: available(MB): 3474.2641 free(MB): 184.5576 used_percent: 16.1
+second 277.0 cpu_percent: 37.3
+memory_usage: available(MB): 3474.1985 free(MB): 184.4920 used_percent: 16.1
+second 277.5 cpu_percent: 36.2
+memory_usage: available(MB): 3474.1944 free(MB): 184.4265 used_percent: 16.1
+second 278.0 cpu_percent: 37.9
+memory_usage: available(MB): 3474.1944 free(MB): 184.4265 used_percent: 16.1
+second 278.5 cpu_percent: 36.2
+memory_usage: available(MB): 3474.2518 free(MB): 184.4265 used_percent: 16.1
+second 279.0 cpu_percent: 37.3
+memory_usage: available(MB): 3474.4156 free(MB): 184.5903 used_percent: 16.1
+second 279.5 cpu_percent: 35.4
+memory_usage: available(MB): 3474.5467 free(MB): 184.6559 used_percent: 16.1
+second 280.0 cpu_percent: 37.1
+memory_usage: available(MB): 3474.5467 free(MB): 184.6559 used_percent: 16.1
+second 280.5 cpu_percent: 36.2
+memory_usage: available(MB): 3474.4402 free(MB): 184.4920 used_percent: 16.1
+second 281.0 cpu_percent: 38.0
+memory_usage: available(MB): 3474.4402 free(MB): 184.4920 used_percent: 16.1
+second 281.5 cpu_percent: 37.0
+memory_usage: available(MB): 3474.4443 free(MB): 184.4306 used_percent: 16.1
+second 282.0 cpu_percent: 36.7
+memory_usage: available(MB): 3474.4443 free(MB): 184.4306 used_percent: 16.1
+second 282.5 cpu_percent: 35.9
+memory_usage: available(MB): 3473.9773 free(MB): 183.7957 used_percent: 16.2
+second 283.0 cpu_percent: 36.8
+memory_usage: available(MB): 3473.8012 free(MB): 183.6196 used_percent: 16.2
+second 283.5 cpu_percent: 35.6
+memory_usage: available(MB): 3473.9241 free(MB): 183.7425 used_percent: 16.2
+second 284.0 cpu_percent: 35.4
+memory_usage: available(MB): 3473.7603 free(MB): 183.5786 used_percent: 16.2
+second 284.5 cpu_percent: 37.9
+memory_usage: available(MB): 3473.3793 free(MB): 183.1404 used_percent: 16.2
+second 285.0 cpu_percent: 36.7
+memory_usage: available(MB): 3473.0394 free(MB): 182.8004 used_percent: 16.2
+second 2
