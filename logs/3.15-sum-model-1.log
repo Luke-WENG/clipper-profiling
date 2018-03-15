@@ -1,0 +1,223 @@
+# model loading
+memory_usage: available(MB): 2669.7155 free(MB): 1012.5844 used_percent: 15.4
+second  169 cpu_percent: 2.1
+memory_usage: available(MB): 2669.7155 free(MB): 1012.5844 used_percent: 15.4
+second  170 cpu_percent: 0.0
+memory_usage: available(MB): 2669.7155 free(MB): 1012.5844 used_percent: 15.4
+second  171 cpu_percent: 0.0
+memory_usage: available(MB): 2669.7155 free(MB): 1012.5844 used_percent: 15.4
+second  172 cpu_percent: 0.0
+memory_usage: available(MB): 2669.7155 free(MB): 1012.5844 used_percent: 15.4
+second  173 cpu_percent: 2.2
+memory_usage: available(MB): 2669.7155 free(MB): 1012.5844 used_percent: 15.4
+second  174 cpu_percent: 0.0
+memory_usage: available(MB): 2669.7196 free(MB): 1012.5844 used_percent: 15.4
+second  175 cpu_percent: 0.0
+memory_usage: available(MB): 2669.7318 free(MB): 1012.5844 used_percent: 15.4
+second  176 cpu_percent: 0.0
+memory_usage: available(MB): 2669.7318 free(MB): 1012.5844 used_percent: 15.4
+second  177 cpu_percent: 56.3
+memory_usage: available(MB): 2663.5633 free(MB): 990.4906 used_percent: 15.6
+second  178 cpu_percent: 21.3
+memory_usage: available(MB): 2657.4111 free(MB): 987.4186 used_percent: 15.8
+second  179 cpu_percent: 4.2
+memory_usage: available(MB): 2657.3865 free(MB): 987.3777 used_percent: 15.8
+second  180 cpu_percent: 1.1
+memory_usage: available(MB): 2657.2595 free(MB): 987.2507 used_percent: 15.8
+second  181 cpu_percent: 39.8
+memory_usage: available(MB): 2629.0422 free(MB): 964.6039 used_percent: 16.7
+second  182 cpu_percent: 4.2
+memory_usage: available(MB): 2628.9275 free(MB): 964.5588 used_percent: 16.7
+second  183 cpu_percent: 0.0
+memory_usage: available(MB): 2628.9766 free(MB): 964.6080 used_percent: 16.7
+second  184 cpu_percent: 2.1
+memory_usage: available(MB): 2628.5711 free(MB): 964.2025 used_percent: 16.7
+second  185 cpu_percent: 0.0
+memory_usage: available(MB): 2628.6203 free(MB): 964.2189 used_percent: 16.7
+second  186 cpu_percent: 0.0
+memory_usage: available(MB): 2628.6203 free(MB): 964.2189 used_percent: 16.7
+second  187 cpu_percent: 1.1
+
+# 1 requesting
+## server
+second  235 cpu_percent: 0.0
+memory_usage: available(MB): 2627.7888 free(MB): 963.1662 used_percent: 16.7
+second  236 cpu_percent: 1.1
+memory_usage: available(MB): 2627.7888 free(MB): 963.1662 used_percent: 16.7
+second  237 cpu_percent: 1.1
+memory_usage: available(MB): 2627.6454 free(MB): 963.0228 used_percent: 16.7
+second  238 cpu_percent: 43.8
+memory_usage: available(MB): 2627.4693 free(MB): 962.8467 used_percent: 16.7
+second  239 cpu_percent: 100.0
+memory_usage: available(MB): 2627.2440 free(MB): 962.5805 used_percent: 16.7
+second  240 cpu_percent: 100.0
+memory_usage: available(MB): 2627.1867 free(MB): 962.4863 used_percent: 16.7
+second  241 cpu_percent: 100.0
+memory_usage: available(MB): 2627.1580 free(MB): 962.3921 used_percent: 16.7
+second  242 cpu_percent: 100.0
+memory_usage: available(MB): 2626.8467 free(MB): 961.9784 used_percent: 16.7
+
+## client
+request:  993
+{u'default': False, u'output': 3.3631024823, u'query_id': 3993}
+latency:  0.00556588172913
+request:  994
+{u'default': False, u'output': 5.1245673218, u'query_id': 3994}
+latency:  0.0128469467163
+request:  995
+{u'default': False, u'output': 5.31167265928, u'query_id': 3995}
+latency:  0.00545501708984
+request:  996
+{u'default': False, u'output': 5.78062172274, u'query_id': 3996}
+latency:  0.00585293769836
+request:  997
+{u'default': False, u'output': 3.71953651995, u'query_id': 3997}
+latency:  0.00494313240051
+request:  998
+{u'default': False, u'output': 4.25053154574, u'query_id': 3998}
+latency:  0.00493812561035
+request:  999
+{u'default': False, u'output': 5.36228864745, u'query_id': 3999}
+latency:  0.00537991523743
+>>> print "Average Latency:", latency_sum/1000
+Average Latency: 0.00655470252037
+
+
+# 2 requestings
+## server
+memory_usage: available(MB): 2624.4915 free(MB): 958.3288 used_percent: 16.8
+second  398 cpu_percent: 0.0
+memory_usage: available(MB): 2624.4915 free(MB): 958.3288 used_percent: 16.8
+second  399 cpu_percent: 1.1
+memory_usage: available(MB): 2624.4915 free(MB): 958.3288 used_percent: 16.8
+second  400 cpu_percent: 92.9
+memory_usage: available(MB): 2622.9146 free(MB): 956.7396 used_percent: 16.8
+second  401 cpu_percent: 100.0
+memory_usage: available(MB): 2622.8777 free(MB): 956.6085 used_percent: 16.8
+second  402 cpu_percent: 100.0
+memory_usage: available(MB): 2622.7917 free(MB): 956.4119 used_percent: 16.9
+second  403 cpu_percent: 100.0
+memory_usage: available(MB): 2622.8408 free(MB): 956.3177 used_percent: 16.8
+
+## client 1
+request:  963
+{u'default': False, u'output': 5.37526342489, u'query_id': 2963}
+latency:  0.00556492805481
+request:  964
+{u'default': False, u'output': 6.70477902305, u'query_id': 2964}
+latency:  0.00624513626099
+request:  965
+{u'default': False, u'output': 4.76130905702, u'query_id': 2965}
+latency:  0.00675797462463
+request:  966
+{u'default': False, u'output': 4.76135015288, u'query_id': 2966}
+latency:  0.00948596000671
+request:  967
+{u'default': False, u'output': 6.16684586191, u'query_id': 2967}
+
+Average Latency: 0.00728000402451
+
+## client 2
+request:  783
+{u'default': False, u'output': 5.04297434795, u'query_id': 2508}
+latency:  0.00783205032349
+request:  784
+{u'default': False, u'output': 5.98078118964, u'query_id': 2510}
+latency:  0.0103170871735
+request:  785
+{u'default': False, u'output': 7.00643649667, u'query_id': 2512}
+latency:  0.0111539363861
+request:  786
+{u'default': False, u'output': 4.38729596802, u'query_id': 2514}
+latency:  0.0064070224762
+request:  787
+{u'default': False, u'output': 4.98940370556, u'query_id': 2516}
+latency:  0.00677704811096
+request:  788
+{u'default': False, u'output': 4.29041631256, u'query_id': 2518}
+latency:  0.00729489326477
+request:  789
+{u'default': False, u'output': 3.53414532655, u'query_id': 2520}
+latency:  0.00898504257202
+
+Average Latency: 0.00738128829002
+
+
+econd  120 cpu_percent: 100.0
+memory_usage: available(MB): 2631.4670 free(MB): 956.7560 used_percent: 16.6
+second  121 cpu_percent: 100.0
+memory_usage: available(MB): 2631.1107 free(MB): 956.2440 used_percent: 16.6
+second  122 cpu_percent: 100.0
+memory_usage: available(MB): 2631.0369 free(MB): 955.9859 used_percent: 16.6
+second  123 cpu_percent: 100.0
+memory_usage: available(MB): 2630.9550 free(MB): 955.7033 used_percent: 16.6
+second  124 cpu_percent: 100.0
+memory_usage: available(MB): 2630.5946 free(MB): 955.1954 used_percent: 16.6
+second  125 cpu_percent: 100.0
+memory_usage: available(MB): 2630.3734 free(MB): 954.7817 used_percent: 16.6
+
+
+# compete
+memory_usage: available(MB): 2632.1388 free(MB): 957.7882 used_percent: 16.6
+second  113 cpu_percent: 0.0
+memory_usage: available(MB): 2632.1388 free(MB): 957.7882 used_percent: 16.6
+second  114 cpu_percent: 2.1
+memory_usage: available(MB): 2632.1388 free(MB): 957.7882 used_percent: 16.6
+second  115 cpu_percent: 0.0
+memory_usage: available(MB): 2632.1428 free(MB): 957.7882 used_percent: 16.6
+second  116 cpu_percent: 0.0
+memory_usage: available(MB): 2632.1428 free(MB): 957.7882 used_percent: 16.6
+second  117 cpu_percent: 0.0
+memory_usage: available(MB): 2632.1715 free(MB): 957.7882 used_percent: 16.6
+second  118 cpu_percent: 76.5
+memory_usage: available(MB): 2632.0978 free(MB): 957.6612 used_percent: 16.6
+second  119 cpu_percent: 100.0
+memory_usage: available(MB): 2631.8684 free(MB): 957.3048 used_percent: 16.6
+second  120 cpu_percent: 100.0
+memory_usage: available(MB): 2631.4670 free(MB): 956.7560 used_percent: 16.6
+second  121 cpu_percent: 100.0
+memory_usage: available(MB): 2631.1107 free(MB): 956.2440 used_percent: 16.6
+second  122 cpu_percent: 100.0
+
+## client 1 0.01
+request:  995 {u'default': False, u'output': 4.44380683542, u'query_id': 9028}
+latency:  0.00569987297058
+request:  996 {u'default': False, u'output': 5.57537180652, u'query_id': 9031}
+latency:  0.00798511505127
+request:  997 {u'default': False, u'output': 5.87976545495, u'query_id': 9034}
+latency:  0.0060122013092
+request:  998 {u'default': False, u'output': 5.27005620975, u'query_id': 9037}
+latency:  0.00502586364746
+request:  999 {u'default': False, u'output': 5.12589775313, u'query_id': 9040}
+latency:  0.00750589370728
+Average Latency: 0.00730248260498
+
+## client 2 0.001
+request: 5059 {u'default': False, u'output': 5.71003507985, u'query_id': 11903}
+latency:  0.00648999214172
+request: 5060 {u'default': False, u'output': 4.90180090814, u'query_id': 11904}
+latency:  0.00594615936279
+request: 5061 {u'default': False, u'output': 5.22277835404, u'query_id': 11905}
+latency:  0.00729608535767
+request: 5062 {u'default': False, u'output': 5.35537595305, u'query_id': 11906}
+latency:  0.0107610225677
+request: 5063 {u'default': False, u'output': 5.52262401325, u'query_id': 11907}
+latency:  0.0048201084137
+request: 5064 {u'default': False, u'output': 4.7714414191, u'query_id': 11908}
+latency:  0.00458312034607
+request: 5065 {u'default': False, u'output': 5.85719911172, u'query_id': 11909}
+latency:  0.00452208518982
+request: 5066 {u'default': False, u'output': 5.42479247363, u'query_id': 11910}
+latency:  0.00762009620667
+request: 5067 {u'default': False, u'output': 4.59652634547, u'query_id': 11911}
+latency:  0.00540781021118
+request: 5068 {u'default': False, u'output': 6.04331535548, u'query_id': 11912}
+latency:  0.00589799880981
+request: 5069 {u'default': False, u'output': 4.64975973878, u'query_id': 11913}
+latency:  0.0101690292358
+request: 5070 {u'default': False, u'output': 5.10170256138, u'query_id': 11914}
+latency:  0.0088529586792
+request: 5071 {u'default': False, u'output': 3.38918188257, u'query_id': 11915}
+latency:  0.00515699386597
+
+
