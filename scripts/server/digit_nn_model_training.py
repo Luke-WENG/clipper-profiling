@@ -65,9 +65,9 @@ def best_NN(dataset_number):
 # exploring_NN(2)
 # exploring_NN(3)
 # exploring_NN(4)
-best_NN(0)
+# best_NN(0)
 # best_NN(1)
-# best_NN(2)
+best_NN(2)
 # best_NN(3)
 # best_NN(4)
     
