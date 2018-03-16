@@ -34,7 +34,8 @@ def serving_test(dataset_number):
     results = clf.predict(train_X)
     print "predict results of train_X:\n", results
 
-serving_test(0)
+if __name__ == '__main__':
+    serving_test(0)
 
 
 
