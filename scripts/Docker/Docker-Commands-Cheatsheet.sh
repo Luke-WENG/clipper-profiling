@@ -23,6 +23,10 @@ docker container ls
 docker container ls --all
 docker container ls -a -q
 
+## Docker Image Remove
+sudo docker rm $(sudo docker ps -a -q)
+sudo docker rmi $(sudo docker images -q)
+
 ## List Docker status
 docker stats
 docker stats --all --format "table {{.Container}}\t{{.CPUPerc}}\t{{.MemUsage}}"
@@ -36,6 +40,11 @@ docker run --it --cpu-rt-runtime=950000 \
 > https://docs.docker.com/config/containers/resource_constraints/
 
 ## Resize Docker's Resources on the fly
+docker update -m 30m <CONTAINER_ID>
+docker update --cpus 1.5 <CONTAINER_ID>
+docker update --cpu-shares 1024 <CONTAINER_ID> # default: 1024
+
+> https://docs.docker.com/engine/reference/commandline/update/
+
 cd /sys/fs/cgroup/memory/docker/<target_docker_ID>/<cpu or memory>/docker/
-105488384 # 100.6015625 MB 31457280
 > https://groups.google.com/forum/#!msg/docker-user/1CvdT-dcDkQ/Zkp5TAel0tYJ

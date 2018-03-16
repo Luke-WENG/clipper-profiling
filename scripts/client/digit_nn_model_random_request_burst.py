@@ -1,8 +1,8 @@
 # request_burst
 import requests, json, time, sys, numpy as np
 
-query_times = 3000 # 30 sec request
-interval = 0.01
+query_times = 3000 # # of requests
+# interval = 0.01
 
 if len(sys.argv) >= 3:
 	query_times = int(sys.argv[1])
@@ -17,12 +17,12 @@ latency_sum = 0
 for i in range(query_times):
 	print "\t%4d" % i,
 	start = time.time()
-	requests.post("http://"+clipper_url+":1337/breast-cancer/predict", 
+	requests.post("http://"+clipper_url+":1337/digit/predict", 
 		headers=headers, 
-		data=json.dumps({"input": list(np.random.random(10)*2-1)})).json()
+		data=json.dumps({"input": list( np.random.randint(0, 16, 64).astype(float) )})).json()
 	latency = time.time()-start
 	print latency,
 	latency_sum += latency
-	time.sleep(interval)
+	# time.sleep(interval)
 
 print "Average Latency", latency_sum/query_times
