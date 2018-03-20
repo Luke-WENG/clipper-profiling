@@ -46,7 +46,7 @@ def best_NN(dataset_number):
     print "# of iterations =",clf.n_iter_
     print "accuracy of train set =",train_scores
     print "accuracy of test  set =",test_scores
-    print "CPU time (sec):", 1000000*period
+    print "CPU time (sec):", period/1000000
 
     
     # Store the model for later usage

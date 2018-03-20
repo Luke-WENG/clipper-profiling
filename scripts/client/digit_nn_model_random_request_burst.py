@@ -19,7 +19,7 @@ for i in range(query_times):
 	start = time.time()
 	requests.post("http://"+clipper_url+":1337/digit/predict", 
 		headers=headers, 
-		data=json.dumps({"input": list( np.random.randint(0, 16, 64).astype(float) )})).json()
+		data=json.dumps({"input": list( np.random.randint(0, 16, 64).astype(float).reshape(1,64) )})).json()
 	latency = time.time()-start
 	print latency,
 	latency_sum += latency
