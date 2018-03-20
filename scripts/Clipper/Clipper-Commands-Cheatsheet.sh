@@ -6,7 +6,6 @@ clipper_conn = ClipperConnection(DockerContainerManager())
 clipper_conn.connect()
 
 
-
 #################################################
 ################ Model Update ###################
 #################################################
@@ -16,9 +15,9 @@ import numpy as np
 from sklearn.neural_network import MLPClassifier
 from sklearn.externals import joblib
 
-new_postfix="20x2k"
+version_postfix="15x2k"
 model_path = "../../models/sklearn/" 
-model_name = "dig_nn_model_"+new_postfix+".sav"
+model_name = "dig_nn_model_"+version_postfix+".sav"
 clf = joblib.load(model_path + model_name)
 
 def clf_predict(xs):
@@ -30,14 +29,14 @@ from clipper_admin.deployers import python as python_deployer
 python_deployer.deploy_python_closure(
 	clipper_conn, 
 	name="digit-nn-model", 
-	version=new_postfix,
+	version=version_postfix,
 	input_type="doubles", 
 	func=clf_predict)
 
 
 # Change Version of Function for Certain Model
 model_name="digit-nn-model"
-model_version="202k" #"1", "201k", "102k"
+model_version=version_postfix
 clipper_conn.set_model_version(name=model_name, version=model_version) 
 # clipper_conn.set_model_version(name="wordcount", version="1") # (name=<model_name>, version=<name_in_string>)
 
