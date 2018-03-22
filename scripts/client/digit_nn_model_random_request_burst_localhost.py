@@ -11,7 +11,7 @@ elif len(sys.argv) >= 2:
 	query_times = int(sys.argv[1])
 
 headers = {"Content-type": "application/json"}
-clipper_url = "192.168.56.101" # default: "localhost"
+clipper_url = "localhost" # default: "localhost"
 
 latency_sum = 0
 for i in range(query_times):
@@ -26,3 +26,8 @@ for i in range(query_times):
 	# time.sleep(interval)
 
 print "Average Latency", latency_sum/query_times
+
+# import requests, json, time, sys, numpy as np
+# headers = {"Content-type": "application/json"}
+# clipper_url = "localhost" # default: "localhost"
+# requests.post("http://"+clipper_url+":1337/digit/predict", headers=headers, data=json.dumps({"input": list( np.random.randint(0, 16, 64).astype(float))})).json()

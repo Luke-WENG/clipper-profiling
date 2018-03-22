@@ -40,6 +40,10 @@ model_version=version_postfix
 clipper_conn.set_model_version(name=model_name, version=model_version) 
 # clipper_conn.set_model_version(name="wordcount", version="1") # (name=<model_name>, version=<name_in_string>)
 
+clipper_conn.link_model_to_app(app_name="digit", model_name="digit-nn-model")
+
+# Set model replicas
+# clipper_conn.set_num_replicas("digit-nn-model", num_replicas=4)
 
 #################################################
 ################### Request #####################
