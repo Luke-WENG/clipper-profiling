@@ -16,14 +16,18 @@ clipper_conn.get_all_apps()
 #################################################
 ############## Define Own Function ##############
 #################################################
-import requests, json, time, sys, numpy as np
-headers = {"Content-type": "application/json"}
-clipper_url = "192.168.56.101" # default: "localhost"
-app_name = "digit"
+
 
 def query_agent_function(xs):
-	data_input = json.dumps({"input": xs})
-	return requests.post("http://"+clipper_url+":1337/"+app_name+"/predict", headers=headers, data=data_input).json()['output']
+	import requests, json, time, sys, numpy as np
+	headers = {"Content-type": "application/json"}
+	clipper_url = "192.168.56.101" # default: "localhost"
+	app_name = "digit"
+	results = []
+	for x in xs:
+		data_input = json.dumps({"input": list(x)})
+		results.append(str(requests.post("http://"+clipper_url+":1337/"+app_name+"/predict", headers=headers, data=data_input).json()['output']))
+	return results
 
 #################################################
 #################################################
@@ -33,9 +37,9 @@ from clipper_admin.deployers import python as python_deployer
 
 python_deployer.deploy_python_closure(
 	clipper_conn, 
-	name="query_agent_model", 
+	name="query-agent-model", 
 	version=1, 
 	input_type="doubles", 
-	func=clf_predict)
+	func=query_agent_function)
 
-clipper_conn.link_model_to_app(app_name="query_agent", model_name="query_agent_model")
+clipper_conn.link_model_to_app(app_name="query_agent", model_name="query-agent-model")

@@ -1,7 +1,8 @@
 # Clipper install and test
 ## https://github.com/ucbrise/clipper
 
-sudo pip install git+https://github.com/ucbrise/clipper.git@develop#subdirectory=clipper_admin
+# After pip install Clipper:
+# sudo pip install git+https://github.com/ucbrise/clipper.git@develop#subdirectory=clipper_admin
 
 # sudo here otherwise it may fail to connect to Docker
 sudo python
